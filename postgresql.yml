@@ -5,6 +5,7 @@ services:
     image: postgres:latest
     container_name: postgresql
     hostname: postgresql
+    restart: unless-stopped  
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=P0stgr3sql.
