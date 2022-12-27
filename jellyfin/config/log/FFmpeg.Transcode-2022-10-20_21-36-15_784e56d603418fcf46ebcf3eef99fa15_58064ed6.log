@@ -1,0 +1,132 @@
+/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/961.ts
+
+{"Protocol":0,"Id":"784e56d603418fcf46ebcf3eef99fa15","Path":"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"avi","Size":1532048512,"Name":"Fifty Shades of Grey (2015)","IsRemote":false,"ETag":"1b70d2df3a7545402547712a272f21ab","RunTimeTicks":72033697792,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"subrip","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","DisplayTitle":"Undefined - SUBRIP - External","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":0,"Score":null,"IsExternal":true,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).srt","PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"mpeg4","CodecTag":"XVID","Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"125/2997","CodecTimeBase":null,"Title":null,"VideoRange":"SDR","VideoRangeType":"SDR","VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"720p MPEG4 SDR","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":1560364,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"Height":534,"Width":1280,"AverageFrameRate":23.976,"RealFrameRate":23.976,"Profile":"Advanced Simple Profile","Type":1,"AspectRatio":"2.40:1","Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":5,"IsAnamorphic":null},{"Codec":"mp3","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Comment":null,"TimeBase":"1/16000","CodecTimeBase":null,"Title":null,"VideoRange":null,"VideoRangeType":null,"VideoDoViTitle":null,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"DisplayTitle":"MP3 - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"stereo","BitRate":128000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":44100,"IsDefault":false,"IsForced":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":1701479,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":null,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -ss 00:48:03.000 -f avi -autorotate 0 -i file:"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 "expr:gte(t,2883+n_forced*3)" -sc_threshold:v:0 0 -vf "setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 961 -hls_segment_filename "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts" -hls_playlist_type vod -hls_list_size 0 -y "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+
+
+ffmpeg version 5.1.2-Jellyfin Copyright (c) 2000-2022 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-libs=-lfftw3f --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-shared --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto --enable-gpl --enable-version3 --enable-static --enable-gmp --enable-gnutls --enable-chromaprint --enable-libdrm --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libdav1d --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libsvtav1 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-opencl --enable-vaapi --enable-amf --enable-libmfx --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      57. 28.100 / 57. 28.100
+  libavcodec     59. 37.100 / 59. 37.100
+  libavformat    59. 27.100 / 59. 27.100
+  libavdevice    59.  7.100 / 59.  7.100
+  libavfilter     8. 44.100 /  8. 44.100
+  libswscale      6.  7.100 /  6.  7.100
+  libswresample   4.  7.100 /  4.  7.100
+  libpostproc    56.  6.100 / 56.  6.100
+[avi @ 0x55747133c580] non-interleaved AVI
+Input #0, avi, from 'file:/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi':
+  Metadata:
+    software        : MEncoder SVN-r29352(20090610-gcc4.3.3)
+  Duration: 02:00:03.37, start: 0.000000, bitrate: 1701 kb/s
+  Stream #0:0: Video: mpeg4 (Advanced Simple Profile) (XVID / 0x44495658), yuv420p, 1280x534 [SAR 1:1 DAR 640:267], 1560 kb/s, SAR 34176:34175 DAR 16384:6835, 23.98 fps, 23.98 tbr, 23.98 tbn
+  Stream #0:1: Audio: mp3 (U[0][0][0] / 0x0055), 44100 Hz, stereo, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mpeg4 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[libx264 @ 0x557471358740] using SAR=1/1
+[libx264 @ 0x557471358740] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x557471358740] profile Main, level 5.1
+[libx264 @ 0x557471358740] 264 - core 155 r2917 0a84d98 - H.264/MPEG-4 AVC codec - Copyleft 2003-2018 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x1:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=4 chroma_me=0 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=23 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=3900 vbv_bufsize=7801 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+Output #0, hls, to '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8':
+  Metadata:
+    encoder         : Lavf59.27.100
+  Stream #0:0: Video: h264, yuv420p(bt709, progressive), 1280x534 [SAR 34176:34175 DAR 16384:6835], q=2-31, 23.98 fps, 90k tbn
+    Metadata:
+      encoder         : Lavc59.37.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 3900000/0/0 buffer size: 7801000 vbv_delay: N/A
+  Stream #0:1: Audio: mp3 (U[0][0][0] / 0x0055), 44100 Hz, stereo, fltp, 128 kb/s
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+frame=  161 fps=0.0 q=28.0 size=N/A time=00:00:06.71 bitrate=N/A speed=12.2x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824961.ts' for writing
+frame=  362 fps=344 q=28.0 size=N/A time=00:00:15.09 bitrate=N/A speed=14.4x    
+frame=  506 fps=326 q=28.0 size=N/A time=00:00:21.10 bitrate=N/A speed=13.6x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824962.ts' for writing
+frame=  750 fps=365 q=28.0 size=N/A time=00:00:31.26 bitrate=N/A speed=15.2x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824963.ts' for writing
+frame=  968 fps=379 q=28.0 size=N/A time=00:00:40.35 bitrate=N/A speed=15.8x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824964.ts' for writing
+frame= 1184 fps=387 q=28.0 size=N/A time=00:00:49.37 bitrate=N/A speed=16.2x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824965.ts' for writing
+frame= 1433 fps=403 q=28.0 size=N/A time=00:00:59.76 bitrate=N/A speed=16.8x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824966.ts' for writing
+frame= 1605 fps=395 q=28.0 size=N/A time=00:01:06.92 bitrate=N/A speed=16.5x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824967.ts' for writing
+frame= 1811 fps=396 q=28.0 size=N/A time=00:01:15.52 bitrate=N/A speed=16.5x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824968.ts' for writing
+frame= 2041 fps=403 q=28.0 size=N/A time=00:01:25.13 bitrate=N/A speed=16.8x    
+frame= 2229 fps=400 q=28.0 size=N/A time=00:01:32.96 bitrate=N/A speed=16.7x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824969.ts' for writing
+frame= 2425 fps=399 q=28.0 size=N/A time=00:01:41.14 bitrate=N/A speed=16.6x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824970.ts' for writing
+frame= 2629 fps=399 q=28.0 size=N/A time=00:01:49.63 bitrate=N/A speed=16.7x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824971.ts' for writing
+frame= 2803 fps=396 q=28.0 size=N/A time=00:01:56.89 bitrate=N/A speed=16.5x    
+frame= 2991 fps=394 q=28.0 size=N/A time=00:02:04.73 bitrate=N/A speed=16.4x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824972.ts' for writing
+frame= 3161 fps=391 q=28.0 size=N/A time=00:02:11.84 bitrate=N/A speed=16.3x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824973.ts' for writing
+frame= 3371 fps=392 q=28.0 size=N/A time=00:02:20.59 bitrate=N/A speed=16.4x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824974.ts' for writing
+frame= 3530 fps=388 q=28.0 size=N/A time=00:02:27.22 bitrate=N/A speed=16.2x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824975.ts' for writing
+frame= 3812 fps=397 q=28.0 size=N/A time=00:02:38.98 bitrate=N/A speed=16.6x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824976.ts' for writing
+frame= 4192 fps=415 q=28.0 size=N/A time=00:02:54.83 bitrate=N/A speed=17.3x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824977.ts' for writing
+frame= 4497 fps=424 q=28.0 size=N/A time=00:03:07.55 bitrate=N/A speed=17.7x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824978.ts' for writing
+frame= 4668 fps=420 q=28.0 size=N/A time=00:03:14.69 bitrate=N/A speed=17.5x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824979.ts' for writing
+frame= 4803 fps=414 q=28.0 size=N/A time=00:03:20.33 bitrate=N/A speed=17.3x    
+frame= 5025 fps=415 q=28.0 size=N/A time=00:03:29.58 bitrate=N/A speed=17.3x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824980.ts' for writing
+frame= 5167 fps=409 q=28.0 size=N/A time=00:03:35.51 bitrate=N/A speed=17.1x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824981.ts' for writing
+frame= 5298 fps=404 q=28.0 size=N/A time=00:03:40.96 bitrate=N/A speed=16.8x    
+frame= 5446 fps=400 q=28.0 size=N/A time=00:03:47.13 bitrate=N/A speed=16.7x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824982.ts' for writing
+frame= 5637 fps=399 q=28.0 size=N/A time=00:03:55.10 bitrate=N/A speed=16.6x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824983.ts' for writing
+frame= 5796 fps=396 q=28.0 size=N/A time=00:04:01.73 bitrate=N/A speed=16.5x    
+frame= 5935 fps=392 q=28.0 size=N/A time=00:04:07.53 bitrate=N/A speed=16.4x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824984.ts' for writing
+frame= 6041 fps=387 q=28.0 size=N/A time=00:04:11.95 bitrate=N/A speed=16.1x    
+frame= 6152 fps=381 q=28.0 size=N/A time=00:04:16.57 bitrate=N/A speed=15.9x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824985.ts' for writing
+frame= 6315 fps=380 q=28.0 size=N/A time=00:04:23.39 bitrate=N/A speed=15.8x    
+frame= 6444 fps=376 q=28.0 size=N/A time=00:04:28.77 bitrate=N/A speed=15.7x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824986.ts' for writing
+frame= 6563 fps=372 q=28.0 size=N/A time=00:04:33.73 bitrate=N/A speed=15.5x    
+frame= 6678 fps=368 q=28.0 size=N/A time=00:04:38.51 bitrate=N/A speed=15.3x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824987.ts' for writing
+frame= 6795 fps=364 q=28.0 size=N/A time=00:04:43.40 bitrate=N/A speed=15.2x    
+frame= 6917 fps=361 q=28.0 size=N/A time=00:04:48.49 bitrate=N/A speed=15.1x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824988.ts' for writing
+frame= 7081 fps=360 q=28.0 size=N/A time=00:04:55.34 bitrate=N/A speed=  15x    
+frame= 7273 fps=361 q=28.0 size=N/A time=00:05:03.33 bitrate=N/A speed=  15x    
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824989.ts' for writing
+
+
+[q] command received. Exiting.
+
+[hls @ 0x557471360400] Opening '/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824990.ts' for writing
+frame= 7281 fps=359 q=-1.0 Lsize=N/A time=00:05:03.64 bitrate=N/A speed=  15x    
+video:33429kB audio:4767kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+[libx264 @ 0x557471358740] frame I:30    Avg QP:17.52  size: 35458
+[libx264 @ 0x557471358740] frame P:2036  Avg QP:20.82  size: 11135
+[libx264 @ 0x557471358740] frame B:5215  Avg QP:24.34  size:  2013
+[libx264 @ 0x557471358740] consecutive B-frames:  1.8%  5.9%  6.2% 86.0%
+[libx264 @ 0x557471358740] mb I  I16..4: 28.5%  0.0% 71.5%
+[libx264 @ 0x557471358740] mb P  I16..4: 18.3%  0.0%  0.0%  P16..4: 48.4%  0.0%  0.0%  0.0%  0.0%    skip:33.3%
+[libx264 @ 0x557471358740] mb B  I16..4:  1.7%  0.0%  0.0%  B16..8: 16.6%  0.0%  0.0%  direct: 4.1%  skip:77.6%  L0:38.9% L1:47.0% BI:14.1%
+[libx264 @ 0x557471358740] coded y,uvDC,uvAC intra: 25.2% 32.1% 3.4% inter: 6.4% 7.1% 0.0%
+[libx264 @ 0x557471358740] i16 v,h,dc,p: 45% 23% 15% 17%
+[libx264 @ 0x557471358740] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 37% 20% 12%  7%  5%  5%  4%  5%  4%
+[libx264 @ 0x557471358740] i8c dc,h,v,p: 44% 21% 28%  7%
+[libx264 @ 0x557471358740] Weighted P-Frames: Y:1.5% UV:0.7%
+[libx264 @ 0x557471358740] kb/s:901.77

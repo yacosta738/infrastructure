@@ -1,0 +1,3411 @@
+1
+00:01:17,300 --> 00:01:18,300
+<font face="Serif" size="18">PELIGRO</font>
+
+2
+00:02:13,550 --> 00:02:15,560
+<font face="Serif" size="18">Capturado, equipo de
+laboratorio descubierto</font>
+
+3
+00:02:17,050 --> 00:02:18,300
+<font face="Serif" size="18">Pruebas recogidas: Muestra de pelo
+Saliba Gamma: 2103.</font>
+
+4
+00:02:27,150 --> 00:02:27,800
+<font face="Serif" size="18">Visto Bigfoot verde</font>
+
+5
+00:02:32,800 --> 00:02:34,900
+<font face="Serif" size="18">Orden de requisa: Ejército USA
+Industrias Stark: Aprobado</font>
+
+6
+00:02:41,650 --> 00:02:43,500
+<font face="Serif" size="18">Ross, Dra. Elisabeth, Banner intentó
+contactar el 01/07/2006: Interceptado</font>
+
+7
+00:03:10,580 --> 00:03:15,620
+<font face="Serif" size="18">DIAS SIN INCIDENTES: 158</font>
+
+8
+00:03:22,770 --> 00:03:25,910
+<font face="Serif" size="18">FABELA ROSINHA - BRASIL.</font>
+
+9
+00:04:01,800 --> 00:04:05,060
+<font face="Serif" size="18">¿Está preparado?</font>
+
+10
+00:04:08,300 --> 00:04:10,280
+<font face="Serif" size="18">DICCIONARIO COMPACTO
+INGLÉS - PORTUGUÉS</font>
+
+11
+00:04:17,640 --> 00:04:20,770
+<font face="Serif" size="18">Ese sí que fue un gran puñetazo.</font>
+
+12
+00:04:34,990 --> 00:04:36,350
+<font face="Serif" size="18">¿Cómo estás amigo?</font>
+
+13
+00:04:39,940 --> 00:04:41,240
+<font face="Serif" size="18">¿Hambriento?</font>
+
+14
+00:04:59,900 --> 00:05:01,200
+<font face="Serif" size="18">Trabajemos la respiración.</font>
+
+15
+00:05:01,200 --> 00:05:03,110
+<font face="Serif" size="18">Aquí las emociones.</font>
+
+16
+00:05:04,910 --> 00:05:09,590
+<font face="Serif" size="18">El miedo no es bueno.
+Así que emoción y control.</font>
+
+17
+00:05:12,490 --> 00:05:14,140
+<font face="Serif" size="18">Utiliza el diagragma.</font>
+
+18
+00:05:23,280 --> 00:05:27,190
+<font face="Serif" size="18">La mejor forma de controlar
+tu rabia.</font>
+
+19
+00:05:27,190 --> 00:05:30,520
+<font face="Serif" size="18">Es controlar las
+respuestas de tu cuerpo.</font>
+
+20
+00:05:30,520 --> 00:05:33,110
+<font face="Serif" size="18">Controla el pulso.</font>
+
+21
+00:05:33,160 --> 00:05:35,920
+<font face="Serif" size="18">Respira, respira.</font>
+
+22
+00:05:38,320 --> 00:05:41,290
+<font face="Serif" size="18">Respira, respira</font>
+
+23
+00:05:42,800 --> 00:05:45,930
+<font face="Serif" size="18">Espera.</font>
+
+24
+00:06:28,560 --> 00:06:29,890
+<font face="Serif" size="18">Gracias.</font>
+
+25
+00:06:37,950 --> 00:06:40,350
+<font face="Serif" size="18">Por aquí
+¡Ven!</font>
+
+26
+00:06:54,650 --> 00:06:57,780
+<font face="Serif" size="18">Bien.</font>
+
+27
+00:07:00,780 --> 00:07:03,910
+<font face="Serif" size="18">Puedo hacer esto pero es
+temporal, lo que usted necesita...</font>
+
+28
+00:07:03,910 --> 00:07:10,430
+<font face="Serif" size="18">Lo que necesito es una
+fábrica nueva.</font>
+
+29
+00:07:10,830 --> 00:07:13,960
+<font face="Serif" size="18">De acuerdo, de acuerdo.</font>
+
+30
+00:07:14,270 --> 00:07:16,000
+<font face="Serif" size="18">Hace 5 meses que me está
+ayudando así.</font>
+
+31
+00:07:16,000 --> 00:07:18,150
+<font face="Serif" size="18">Es usted demasiado listo para
+un contrato por días.</font>
+
+32
+00:07:18,150 --> 00:07:21,060
+<font face="Serif" size="18">Permítame ponerle
+en nómina.</font>
+
+33
+00:07:29,800 --> 00:07:32,510
+<font face="Serif" size="18">¡Paren esto! ¡Apáguenlo!</font>
+
+34
+00:07:35,640 --> 00:07:38,770
+<font face="Serif" size="18">¡Tengan cuidado!</font>
+
+35
+00:08:08,090 --> 00:08:08,800
+<font face="Serif" size="18">¡De acuerdo!</font>
+
+36
+00:09:11,900 --> 00:09:14,120
+<font face="Serif" size="18">Martina, ¿Quieres comer conmigo?</font>
+
+37
+00:09:15,120 --> 00:09:17,500
+<font face="Serif" size="18">Piérdete, gringo.</font>
+
+38
+00:09:19,550 --> 00:09:20,670
+<font face="Serif" size="18">¿Estás bien?</font>
+
+39
+00:09:22,920 --> 00:09:24,940
+<font face="Serif" size="18">¿Tienes algún problema?</font>
+
+40
+00:09:24,940 --> 00:09:25,980
+<font face="Serif" size="18">No es nada</font>
+
+41
+00:09:25,980 --> 00:09:27,010
+<font face="Serif" size="18">Pues ya es tarde.</font>
+
+42
+00:09:28,030 --> 00:09:29,680
+<font face="Serif" size="18">No me enfades.</font>
+
+43
+00:09:29,680 --> 00:09:33,960
+<font face="Serif" size="18">No te va a gustar
+cuando me... enfado.</font>
+
+44
+00:09:35,490 --> 00:09:36,320
+<font face="Serif" size="18">Esto no está bien.</font>
+
+45
+00:09:36,740 --> 00:09:39,580
+<font face="Serif" size="18">¡Paren, paren!</font>
+
+46
+00:09:49,150 --> 00:09:49,880
+<font face="Serif" size="18">¿Está?</font>
+
+47
+00:10:01,470 --> 00:10:03,380
+<font face="Serif" size="18">Tú.</font>
+
+48
+00:10:12,400 --> 00:10:15,530
+<font face="Serif" size="18">¿Viste eso? ¿Viste eso? Mi
+ticket para salir de aquí.</font>
+
+49
+00:10:32,370 --> 00:10:33,620
+<font face="Serif" size="18">Blue, ¿está ahí?</font>
+
+50
+00:10:36,860 --> 00:10:38,250
+<font face="Serif" size="18">Sr. Blue: ¡Sr. Green!</font>
+
+51
+00:10:38,320 --> 00:10:40,400
+<font face="Serif" size="18">¡Me alegra saber de usted de nuevo,
+mi misterioso amigo!</font>
+
+52
+00:10:42,020 --> 00:10:43,180
+<font face="Serif" size="18">Lo he encontrado.</font>
+
+53
+00:10:43,230 --> 00:10:47,360
+<font face="Serif" size="18">Finalmente.
+Es una florecilla encantadora, ¿verdad?</font>
+
+54
+00:10:51,510 --> 00:10:54,250
+<font face="Serif" size="18">Asegúrese de probar una dosis alta.
+¡¡Buena suerte!!</font>
+
+55
+00:11:50,980 --> 00:11:53,070
+<font face="Serif" size="18">¡Maldita sea!</font>
+
+56
+00:11:53,130 --> 00:11:56,160
+<font face="Serif" size="18">Otro fracaso.</font>
+
+57
+00:11:57,160 --> 00:11:59,050
+<font face="Serif" size="18">¿Cuanto utilizó?</font>
+
+58
+00:12:03,890 --> 00:12:05,000
+<font face="Serif" size="18">Todo.</font>
+
+59
+00:12:06,260 --> 00:12:08,190
+<font face="Serif" size="18">Pues ha llegado el momento de reunirnos</font>
+
+60
+00:12:11,610 --> 00:12:13,090
+<font face="Serif" size="18">No es seguro.</font>
+
+61
+00:12:13,480 --> 00:12:16,330
+<font face="Serif" size="18">Vivir con el veneno GAMMA
+no es seguro.</font>
+
+62
+00:12:16,330 --> 00:12:19,780
+<font face="Serif" size="18">Deje de buscar flores.
+Envíeme una muestra de sangre.</font>
+
+63
+00:12:22,100 --> 00:12:24,230
+<font face="Serif" size="18">No puedo ayudarle si
+no me lo permite.</font>
+
+64
+00:12:56,280 --> 00:12:58,780
+<font face="Serif" size="18">Hay algo un poco más interesante.</font>
+
+65
+00:12:58,790 --> 00:13:01,910
+<font face="Serif" size="18">Es una posible enfermedad
+gamma. Milwaukee.</font>
+
+66
+00:13:03,670 --> 00:13:06,790
+<font face="Serif" size="18">Un hombre bebió uno de
+esos refrescos de guaraná.</font>
+
+67
+00:13:07,340 --> 00:13:10,460
+<font face="Serif" size="18">Supongo que era un poco más
+fuerte de lo que esperaba.</font>
+
+68
+00:13:12,170 --> 00:13:15,300
+<font face="Serif" size="18">¡Vaya!</font>
+
+69
+00:13:16,720 --> 00:13:19,850
+<font face="Serif" size="18">- ¿Dónde lo embotellaron?
+- En Porto Verde, Brasil.</font>
+
+70
+00:13:19,930 --> 00:13:23,060
+<font face="Serif" size="18">Pon a nuestra gente a buscar a un hombre
+blanco en una planta de embotellado.</font>
+
+71
+00:13:23,640 --> 00:13:26,770
+<font face="Serif" size="18">¡Diles que no contacten!
+¡Si los ve, desaparece!</font>
+
+72
+00:13:48,410 --> 00:13:51,540
+<font face="Serif" size="18">Entiendo que podría. Hay noticias
+nuevas, pero son de toda clase.</font>
+
+73
+00:13:51,960 --> 00:13:55,080
+<font face="Serif" size="18">Me traje un as.</font>
+
+74
+00:13:58,460 --> 00:14:01,590
+<font face="Serif" size="18">Emil Blonsky. Nacido en
+Rusia, criado en Inglaterra.</font>
+
+75
+00:14:03,170 --> 00:14:06,300
+<font face="Serif" size="18">Y prestado al SOCOM por la Infantería
+de Marina de la Gran Bretaña.</font>
+
+76
+00:14:11,430 --> 00:14:14,010
+<font face="Serif" size="18">Sé que intercambiaste unos
+cuantos chips por esto, Joe.</font>
+
+77
+00:14:14,020 --> 00:14:17,140
+<font face="Serif" size="18">Me alegro de poder
+ayudar. Lo haré bien.</font>
+
+78
+00:14:26,530 --> 00:14:29,650
+<font face="Serif" size="18">Este es el objetivo y la ubicación.
+Extraer y sujetar. Captura viva.</font>
+
+79
+00:14:30,280 --> 00:14:32,270
+<font face="Serif" size="18">Tendrá sus dardos de sujeción
+y olvidarse de la artillería,</font>
+
+80
+00:14:32,280 --> 00:14:34,690
+<font face="Serif" size="18">pero el fuego es solamente de apoyo.</font>
+
+81
+00:14:34,700 --> 00:14:37,400
+<font face="Serif" size="18">Tenemos residentes ahí, pero lo
+queremos ajustado y silencioso.</font>
+
+82
+00:14:37,410 --> 00:14:39,820
+<font face="Serif" size="18">¿Es un luchador?</font>
+
+83
+00:14:39,830 --> 00:14:42,960
+<font face="Serif" size="18">Nuestro objetivo es un fugitivo
+del gobierno de los Estados Unidos</font>
+
+84
+00:14:43,460 --> 00:14:45,780
+<font face="Serif" size="18">que robó secretos militares.</font>
+
+85
+00:14:45,790 --> 00:14:48,920
+<font face="Serif" size="18">También está implicado en las
+muertes de dos científicos,</font>
+
+86
+00:14:50,460 --> 00:14:51,900
+<font face="Serif" size="18">un oficial de las fuerzas
+armadas, un policía del</font>
+
+87
+00:14:51,910 --> 00:14:53,590
+<font face="Serif" size="18">estado de Idaho y posiblemente
+dos cazadores canadienses.</font>
+
+88
+00:14:54,380 --> 00:14:57,510
+<font face="Serif" size="18">¡No espere a ver si es un luchador!</font>
+
+89
+00:14:57,550 --> 00:15:00,680
+<font face="Serif" size="18">Sédelo y tráigalo.</font>
+
+90
+00:15:17,810 --> 00:15:18,790
+<font face="Serif" size="18">Entrando llamada.</font>
+
+91
+00:15:18,820 --> 00:15:21,100
+<font face="Serif" size="18">Buenas noticias.</font>
+
+92
+00:15:21,100 --> 00:15:22,970
+<font face="Serif" size="18">Los análisis de sangre
+preliminares muestran</font>
+
+93
+00:15:22,980 --> 00:15:24,300
+<font face="Serif" size="18">importante reducción de gamma.</font>
+
+94
+00:15:27,860 --> 00:15:31,180
+<font face="Serif" size="18">¿Me curará?</font>
+
+95
+00:15:32,820 --> 00:15:35,200
+<font face="Serif" size="18">Sí.</font>
+
+96
+00:15:39,690 --> 00:15:42,030
+<font face="Serif" size="18">Pero...
+Necesito más datos.</font>
+
+97
+00:15:42,050 --> 00:15:43,400
+<font face="Serif" size="18">Vamos.</font>
+
+98
+00:15:43,400 --> 00:15:44,450
+<font face="Serif" size="18">Niveles de exposición
+Concentración de gamma.</font>
+
+99
+00:15:44,450 --> 00:15:45,580
+<font face="Serif" size="18">Saturación celular</font>
+
+100
+00:15:48,900 --> 00:15:51,900
+<font face="Serif" size="18">Imposible.
+Los datos no están aquí.</font>
+
+101
+00:15:52,850 --> 00:15:54,820
+<font face="Serif" size="18">¿Dónde están?</font>
+
+102
+00:16:03,530 --> 00:16:07,430
+<font face="Serif" size="18">En casa.</font>
+
+103
+00:16:46,690 --> 00:16:47,630
+<font face="Serif" size="18">Cámara.</font>
+
+104
+00:16:50,400 --> 00:16:53,520
+<font face="Serif" size="18">Ahí vamos.</font>
+
+105
+00:17:04,200 --> 00:17:07,330
+<font face="Serif" size="18">Deshazte del maldito perro.</font>
+
+106
+00:17:17,460 --> 00:17:20,590
+<font face="Serif" size="18">¡Tómalo!</font>
+
+107
+00:17:30,350 --> 00:17:32,670
+<font face="Serif" size="18">El objetivo se mueve.</font>
+
+108
+00:17:40,900 --> 00:17:43,140
+<font face="Serif" size="18">¿Dónde está?</font>
+
+109
+00:17:48,280 --> 00:17:49,600
+<font face="Serif" size="18">Está en tierra.</font>
+
+110
+00:17:49,610 --> 00:17:52,740
+<font face="Serif" size="18">- ¡Vayamos!
+- ¡Vamos!</font>
+
+111
+00:17:53,240 --> 00:17:56,370
+<font face="Serif" size="18">¡Muévanse, muévanse!</font>
+
+112
+00:17:56,670 --> 00:17:57,830
+<font face="Serif" size="18">Gracias.</font>
+
+113
+00:18:15,840 --> 00:18:18,880
+<font face="Serif" size="18">¡Vamos, vamos, vamos!</font>
+
+114
+00:18:18,890 --> 00:18:20,500
+<font face="Serif" size="18">¡Vamos, vamos!</font>
+
+115
+00:18:23,270 --> 00:18:26,300
+<font face="Serif" size="18">¡Limpien todo!</font>
+
+116
+00:18:26,310 --> 00:18:29,440
+<font face="Serif" size="18">¡No lo pierdan!</font>
+
+117
+00:19:12,720 --> 00:19:15,850
+<font face="Serif" size="18">¡No!</font>
+
+118
+00:20:26,280 --> 00:20:28,900
+<font face="Serif" size="18">¡Rodéenlo!</font>
+
+119
+00:20:28,910 --> 00:20:32,040
+<font face="Serif" size="18">El objetivo avanza,
+unidad móvil 0-9-0.</font>
+
+120
+00:20:46,260 --> 00:20:47,580
+<font face="Serif" size="18">No.</font>
+
+121
+00:20:48,720 --> 00:20:51,850
+<font face="Serif" size="18">Tienes que estar bromeando.</font>
+
+122
+00:21:21,330 --> 00:21:24,460
+<font face="Serif" size="18">- ¿Dónde está?
+- Objetivo capturado.</font>
+
+123
+00:21:36,430 --> 00:21:39,550
+<font face="Serif" size="18">¡Gringo!</font>
+
+124
+00:21:53,980 --> 00:21:57,110
+<font face="Serif" size="18">Vamos.</font>
+
+125
+00:22:08,790 --> 00:22:10,780
+<font face="Serif" size="18">¡No!</font>
+
+126
+00:22:10,790 --> 00:22:13,920
+<font face="Serif" size="18">¡Por favor, no!</font>
+
+127
+00:22:14,500 --> 00:22:16,240
+<font face="Serif" size="18">¡La computadora no!</font>
+
+128
+00:22:16,250 --> 00:22:19,380
+<font face="Serif" size="18">¡Dame eso! ¡No!</font>
+
+129
+00:22:24,250 --> 00:22:25,350
+<font face="Serif" size="18">¿Ya no eres tan duro, verdad?</font>
+
+130
+00:22:26,180 --> 00:22:27,430
+<font face="Serif" size="18">Intenta esos elegantes
+movimientos de nuevo.</font>
+
+131
+00:22:27,430 --> 00:22:28,300
+<font face="Serif" size="18">Venga</font>
+
+132
+00:22:29,050 --> 00:22:29,940
+<font face="Serif" size="18">Paren, por favor.</font>
+
+133
+00:22:32,620 --> 00:22:34,260
+<font face="Serif" size="18">Yo... enfadado.
+Muy mal.</font>
+
+134
+00:22:35,180 --> 00:22:38,100
+<font face="Serif" size="18">¿Estás muy enfadado, G?
+Estoy muy enfadado.</font>
+
+135
+00:22:43,270 --> 00:22:45,600
+<font face="Serif" size="18">No.</font>
+
+136
+00:22:45,610 --> 00:22:48,740
+<font face="Serif" size="18">¡No lo entiendes! ¡Está
+ocurriendo algo realmente malo!</font>
+
+137
+00:22:50,270 --> 00:22:51,560
+<font face="Serif" size="18">Muy malo, sí</font>
+
+138
+00:23:07,290 --> 00:23:10,420
+<font face="Serif" size="18">¿Alguien más ha visto esto?</font>
+
+139
+00:23:42,410 --> 00:23:44,400
+<font face="Serif" size="18">Tenemos algún tipo de
+espectro. Se necesita consejo.</font>
+
+140
+00:23:44,410 --> 00:23:47,540
+<font face="Serif" size="18">¡Ése es el objetivo! ¡Utilice
+todos los tranquilizantes que tenga!</font>
+
+141
+00:23:47,620 --> 00:23:49,070
+<font face="Serif" size="18">¡Hágalo ya!</font>
+
+142
+00:23:56,630 --> 00:23:59,200
+<font face="Serif" size="18">¡Operacional!
+¡Operacional! ¡Operacional!</font>
+
+143
+00:23:59,210 --> 00:24:01,540
+<font face="Serif" size="18">¡Muévete! ¡Fuera del camino!</font>
+
+144
+00:24:01,550 --> 00:24:02,750
+<font face="Serif" size="18">¡No!</font>
+
+145
+00:24:35,330 --> 00:24:38,450
+<font face="Serif" size="18">¡Está detrás nuestro!
+¡Muévanse! ¡Muévanse!</font>
+
+146
+00:24:46,380 --> 00:24:49,290
+<font face="Serif" size="18">¡Atrápalo!</font>
+
+147
+00:24:49,300 --> 00:24:52,420
+<font face="Serif" size="18">¡Disparen!</font>
+
+148
+00:25:05,230 --> 00:25:08,350
+<font face="Serif" size="18">Déjenme solo.</font>
+
+149
+00:26:18,750 --> 00:26:21,460
+<font face="Serif" size="18">¡No! ¡No!</font>
+
+150
+00:26:32,340 --> 00:26:35,000
+<font face="Serif" size="18">Sabía que algo iba diferente
+antes de que me disparasen.</font>
+
+151
+00:26:35,010 --> 00:26:38,140
+<font face="Serif" size="18">Lo tenía cuando se estropeó.</font>
+
+152
+00:26:43,520 --> 00:26:46,640
+<font face="Serif" size="18">¿Es esa su novia?
+¿Lo está ayudando?</font>
+
+153
+00:26:49,810 --> 00:26:52,760
+<font face="Serif" size="18">Ella ya no es un factor.</font>
+
+154
+00:26:52,770 --> 00:26:55,900
+<font face="Serif" size="18">Le hemos cerrado esta puerta
+hace mucho tiempo. Está solo.</font>
+
+155
+00:26:56,320 --> 00:27:00,370
+<font face="Serif" size="18">Quiere estar solo. Pero mire si
+ha estado hablando con alguien.</font>
+
+156
+00:27:08,160 --> 00:27:11,030
+<font face="Serif" size="18">¿Me perdona, Señor?</font>
+
+157
+00:27:11,040 --> 00:27:14,170
+<font face="Serif" size="18">¿No hay nadie con el que quiera
+hablar de lo que ocurrió ahí? Porque...</font>
+
+158
+00:27:15,750 --> 00:27:17,200
+<font face="Serif" size="18">Él no nos perdió.</font>
+
+159
+00:27:17,210 --> 00:27:20,340
+<font face="Serif" size="18">No estaba solo, Señor. Lo teníamos.</font>
+
+160
+00:27:21,090 --> 00:27:23,500
+<font face="Serif" size="18">Y entonces algo nos golpeó, algo...</font>
+
+161
+00:27:23,510 --> 00:27:26,640
+<font face="Serif" size="18">¡Algo grande nos golpeó!</font>
+
+162
+00:27:28,340 --> 00:27:31,470
+<font face="Serif" size="18">¡Tiró una carretilla elevadora
+como si fuese una pelota!</font>
+
+163
+00:27:33,680 --> 00:27:36,810
+<font face="Serif" size="18">Era la cosa más poderosa
+que jamás he visto.</font>
+
+164
+00:27:38,190 --> 00:27:41,310
+<font face="Serif" size="18">Bueno, ha desaparecido.</font>
+
+165
+00:27:42,110 --> 00:27:43,890
+<font face="Serif" size="18">Bueno, si Banner sabe lo que es,</font>
+
+166
+00:27:43,900 --> 00:27:47,030
+<font face="Serif" size="18">voy a buscarlo, pondré
+mi pie en su garganta</font>
+
+167
+00:27:47,110 --> 00:27:50,240
+<font face="Serif" size="18">- y voy a...
+- Eso era Banner.</font>
+
+168
+00:27:53,780 --> 00:27:56,570
+<font face="Serif" size="18">Eso...</font>
+
+169
+00:27:56,580 --> 00:27:58,230
+<font face="Serif" size="18">era Banner.</font>
+
+170
+00:27:58,240 --> 00:28:03,090
+<font face="Serif" size="18">- Tiene que explicar esa frase, señor.
+- No, no lo haré.</font>
+
+171
+00:28:04,750 --> 00:28:07,880
+<font face="Serif" size="18">Ha hecho un buen trabajo.</font>
+
+172
+00:28:07,960 --> 00:28:12,670
+<font face="Serif" size="18">Empaquete y lleve a nuestros
+hombres al avión. Nos vamos a casa.</font>
+
+173
+00:29:00,770 --> 00:29:03,180
+<font face="Serif" size="18">Días sin incidentes: 1</font>
+
+174
+00:29:16,560 --> 00:29:19,690
+<font face="Serif" size="18">Pare!</font>
+
+175
+00:29:20,400 --> 00:29:23,520
+<font face="Serif" size="18">Por favor.</font>
+
+176
+00:29:23,520 --> 00:29:24,570
+<font face="Serif" size="18">¿Puede llevarme?</font>
+
+177
+00:29:27,570 --> 00:29:28,560
+<font face="Serif" size="18">¿Qué?</font>
+
+178
+00:29:28,900 --> 00:29:32,030
+<font face="Serif" size="18">¿Dónde estoy?</font>
+
+179
+00:30:05,810 --> 00:30:08,940
+<font face="Serif" size="18">He pasado por malas situaciones
+en misiones de mierda.</font>
+
+180
+00:30:08,980 --> 00:30:10,180
+<font face="Serif" size="18">He visto caer hombres buenos</font>
+
+181
+00:30:10,190 --> 00:30:13,320
+<font face="Serif" size="18">simplemente porque alguien no nos
+permitió saber en qué nos metíamos.</font>
+
+182
+00:30:13,650 --> 00:30:15,970
+<font face="Serif" size="18">He continuado a la siguiente,
+porque eso es lo que hacemos ¿verdad?</font>
+
+183
+00:30:15,980 --> 00:30:17,430
+<font face="Serif" size="18">Quiero decir, así es el trabajo.</font>
+
+184
+00:30:17,440 --> 00:30:20,560
+<font face="Serif" size="18">¿Pero esto?</font>
+
+185
+00:30:20,570 --> 00:30:23,400
+<font face="Serif" size="18">Esto es todo un nuevo
+nivel de extrañeza.</font>
+
+186
+00:30:23,410 --> 00:30:26,360
+<font face="Serif" size="18">No me siento inclinado
+a apartarme de ello.</font>
+
+187
+00:30:26,370 --> 00:30:29,490
+<font face="Serif" size="18">Así que si usted piensa realizar
+otro golpe contra él, quiero estar.</font>
+
+188
+00:30:29,500 --> 00:30:31,060
+<font face="Serif" size="18">Y con todo respeto,
+debería buscar un grupo</font>
+
+189
+00:30:31,060 --> 00:30:32,620
+<font face="Serif" size="18">que estuviese preparado
+y listo para pelar,</font>
+
+190
+00:30:33,420 --> 00:30:36,540
+<font face="Serif" size="18">porque si esa cosa aparece de nuevo,</font>
+
+191
+00:30:36,630 --> 00:30:39,750
+<font face="Serif" size="18">va a tener un montón de duros
+profesionales meándose en los pantalones.</font>
+
+192
+00:30:41,170 --> 00:30:42,330
+<font face="Serif" size="18">Señor.</font>
+
+193
+00:31:32,550 --> 00:31:35,680
+<font face="Serif" size="18">¿Tienes más elástico?</font>
+
+194
+00:31:36,090 --> 00:31:39,040
+<font face="Serif" size="18">Sí, perfecto.</font>
+
+195
+00:32:09,620 --> 00:32:11,990
+<font face="Serif" size="18">Permítame remarcar que lo que
+estoy a punto de compartir con usted</font>
+
+196
+00:32:12,000 --> 00:32:15,130
+<font face="Serif" size="18">es tremendamente delicado, tanto para
+mí personalmente como para el ejército.</font>
+
+197
+00:32:18,170 --> 00:32:21,300
+<font face="Serif" size="18">Usted sabe que tenemos un programa de
+desarrollo de armas para la infantería.</font>
+
+198
+00:32:21,460 --> 00:32:24,590
+<font face="Serif" size="18">Bueno, en la Segunda Guerra
+Mundial, iniciaron un subprograma</font>
+
+199
+00:32:26,180 --> 00:32:28,830
+<font face="Serif" size="18">de aumento de las fuerzas biotécnicas.</font>
+
+200
+00:32:28,850 --> 00:32:31,970
+<font face="Serif" size="18">Sí, el súpersoldado.</font>
+
+201
+00:32:33,600 --> 00:32:35,550
+<font face="Serif" size="18">Sí.</font>
+
+202
+00:32:35,560 --> 00:32:38,590
+<font face="Serif" size="18">Demasiado simplificado, pero sí.</font>
+
+203
+00:32:38,600 --> 00:32:41,730
+<font face="Serif" size="18">Yo lo desempolvé, los tengo trabajando
+de nuevo, un trabajo arriesgado.</font>
+
+204
+00:32:42,610 --> 00:32:45,390
+<font face="Serif" size="18">Al otro lado del pasillo,
+están intentando armarlos mejor.</font>
+
+205
+00:32:45,400 --> 00:32:48,530
+<font face="Serif" size="18">Estamos intentando hacerles mejores.</font>
+
+206
+00:32:51,070 --> 00:32:52,770
+<font face="Serif" size="18">El trabajo de Banner estaba
+en una fase muy inicial.</font>
+
+207
+00:32:52,780 --> 00:32:54,200
+<font face="Serif" size="18">Ni tan siquiera eran
+aplicaciones de armas.</font>
+
+208
+00:32:56,450 --> 00:32:59,110
+<font face="Serif" size="18">Pensó que trabajaba en
+resistencia a la radiación.</font>
+
+209
+00:32:59,120 --> 00:33:02,250
+<font face="Serif" size="18">Nunca le quise decir cuál
+era en realidad el proyecto.</font>
+
+210
+00:33:02,410 --> 00:33:05,540
+<font face="Serif" size="18">Pero estaba tan seguro de su
+proceso que lo comprobó en sí mismo.</font>
+
+211
+00:33:07,130 --> 00:33:10,250
+<font face="Serif" size="18">Y ocurrió algo muy desastroso.</font>
+
+212
+00:33:12,380 --> 00:33:15,080
+<font face="Serif" size="18">O lo hizo muy bien.</font>
+
+213
+00:33:15,090 --> 00:33:16,920
+<font face="Serif" size="18">En lo que a mi respecta,
+todo el cuerpo de ese hombre,</font>
+
+214
+00:33:16,920 --> 00:33:18,220
+<font face="Serif" size="18">es propiedad del ejército de los E.U.</font>
+
+215
+00:33:19,260 --> 00:33:22,300
+<font face="Serif" size="18">Ha dicho que no trabajaba
+en armas ¿verdad?</font>
+
+216
+00:33:22,310 --> 00:33:24,510
+<font face="Serif" size="18">- No.
+- Pero usted sí. Usted lo hacía ¿verdad?</font>
+
+217
+00:33:24,520 --> 00:33:26,590
+<font face="Serif" size="18">Usted intentaba otras cosas.</font>
+
+218
+00:33:26,600 --> 00:33:29,730
+<font face="Serif" size="18">Desarrollamos un suero</font>
+
+219
+00:33:30,730 --> 00:33:32,140
+<font face="Serif" size="18">era muy prometedor.</font>
+
+220
+00:33:32,150 --> 00:33:35,280
+<font face="Serif" size="18">- ¿Y por qué huyó?
+- Es un científico.</font>
+
+221
+00:33:36,190 --> 00:33:39,320
+<font face="Serif" size="18">No es uno de los nuestros.</font>
+
+222
+00:33:41,280 --> 00:33:44,410
+<font face="Serif" size="18">- Blonsky ¿Qué edad tiene usted? ¿45?
+-39.</font>
+
+223
+00:33:46,160 --> 00:33:49,290
+<font face="Serif" size="18">- Eso necesita un control, ¿no es así?
+- Sí, lo necesita.</font>
+
+224
+00:33:49,870 --> 00:33:51,190
+<font face="Serif" size="18">Así que salga de las trincheras.</font>
+
+225
+00:33:51,210 --> 00:33:53,740
+<font face="Serif" size="18">Ya debería ser Coronel,
+con su historial.</font>
+
+226
+00:33:53,750 --> 00:33:56,880
+<font face="Serif" size="18">No, soy un luchador. Y
+lo seré mientras pueda.</font>
+
+227
+00:33:58,090 --> 00:33:59,350
+<font face="Serif" size="18">Mire, si pudiese tomar lo que sé ahora,</font>
+
+228
+00:33:59,360 --> 00:34:01,210
+<font face="Serif" size="18">lo hubiese puesto en el
+cuerpo que tenía hace 10 años,</font>
+
+229
+00:34:01,380 --> 00:34:04,510
+<font face="Serif" size="18">eso hubiera sido alguien con
+quien no habría querido pelear.</font>
+
+230
+00:34:06,050 --> 00:34:09,180
+<font face="Serif" size="18">Probablemente podría arreglar algo así.</font>
+
+231
+00:36:30,210 --> 00:36:33,340
+<font face="Serif" size="18">Cuídense, muchachos.</font>
+
+232
+00:36:43,270 --> 00:36:44,710
+<font face="Serif" size="18">Stan, te doy mi palabra,</font>
+
+233
+00:36:44,720 --> 00:36:46,510
+<font face="Serif" size="18">de que sea lo que sea que
+hayas oído de mí, no es cierto.</font>
+
+234
+00:36:46,520 --> 00:36:49,650
+<font face="Serif" size="18">Lo sé, siempre lo he sabido.</font>
+
+235
+00:36:49,770 --> 00:36:52,900
+<font face="Serif" size="18">Quiero decir, ya sabes lo
+que siento por ustedes dos.</font>
+
+236
+00:36:55,480 --> 00:36:58,430
+<font face="Serif" size="18">- ¿Has hablado con ella?
+- No.</font>
+
+237
+00:36:58,440 --> 00:37:01,570
+<font face="Serif" size="18">No sabe que estoy aquí.</font>
+
+238
+00:37:02,490 --> 00:37:05,620
+<font face="Serif" size="18">- ¿Está con alguien?
+- Sí, es un jefe de psiquiatría.</font>
+
+239
+00:37:06,950 --> 00:37:10,080
+<font face="Serif" size="18">Dicen que es uno de los mejores.
+Pero es un tipo muy agradable.</font>
+
+240
+00:37:13,500 --> 00:37:15,360
+<font face="Serif" size="18">Bien, eso es bueno.</font>
+
+241
+00:37:15,380 --> 00:37:16,780
+<font face="Serif" size="18">Bruce, ¿qué puedo hacer para ayudarte?</font>
+
+242
+00:37:18,360 --> 00:37:19,970
+<font face="Serif" size="18">Puedo utilizar una cama
+durante unas noches.</font>
+
+243
+00:37:20,300 --> 00:37:22,530
+<font face="Serif" size="18">Puedes tener la habitación
+de visitas del piso de arriba.</font>
+
+244
+00:37:22,530 --> 00:37:24,490
+<font face="Serif" size="18">Eso sería estupendo.</font>
+
+245
+00:37:25,930 --> 00:37:29,050
+<font face="Serif" size="18">Hay otra cosa.</font>
+
+246
+00:37:32,310 --> 00:37:35,430
+<font face="Serif" size="18">Perdonen, disculpen.</font>
+
+247
+00:37:35,640 --> 00:37:38,770
+<font face="Serif" size="18">Voy pasando.</font>
+
+248
+00:37:41,770 --> 00:37:44,600
+<font face="Serif" size="18">Oye amigo, tengo una
+entrega en el cinco.</font>
+
+249
+00:37:44,610 --> 00:37:46,180
+<font face="Serif" size="18">No creo que haya nadie ahí arriba.</font>
+
+250
+00:37:46,190 --> 00:37:49,320
+<font face="Serif" size="18">Oye, tendré que explicar mucho
+si no cobro. Déjame intentarlo.</font>
+
+251
+00:37:52,570 --> 00:37:55,700
+<font face="Serif" size="18">Te diré algo... Tengo la mitad de una
+extra. Tómalo por cuenta de la casa.</font>
+
+252
+00:38:03,080 --> 00:38:06,210
+<font face="Serif" size="18">- Eres mi hombre.
+- Que Dios te bendiga, hermano.</font>
+
+253
+00:38:08,750 --> 00:38:11,880
+<font face="Serif" size="18">Bien.</font>
+
+254
+00:39:07,590 --> 00:39:10,720
+<font face="Serif" size="18">De acuerdo.</font>
+
+255
+00:39:48,820 --> 00:39:51,670
+<font face="Serif" size="18">¡Señor Green!
+¿Cómo va su investigación?</font>
+
+256
+00:39:51,670 --> 00:39:53,940
+<font face="Serif" size="18">Los datos han desaparecido</font>
+
+257
+00:39:54,500 --> 00:39:58,280
+<font face="Serif" size="18">Sin eso
+No puedo ayudar.</font>
+
+258
+00:40:01,680 --> 00:40:03,150
+<font face="Serif" size="18">¿Y ahora qué?</font>
+
+259
+00:40:03,250 --> 00:40:08,330
+<font face="Serif" size="18">Tengo que seguir moviéndome.</font>
+
+260
+00:40:22,240 --> 00:40:23,860
+<font face="Serif" size="18">Estamos bastante bien cerrados
+aquí, compañeros. Lo siento.</font>
+
+261
+00:40:24,700 --> 00:40:27,830
+<font face="Serif" size="18">Vamos, Stan. Es viernes por la noche.</font>
+
+262
+00:40:28,290 --> 00:40:30,400
+<font face="Serif" size="18">Muchachos.</font>
+
+263
+00:40:30,410 --> 00:40:32,740
+<font face="Serif" size="18">No tengo nada excepto marinara.</font>
+
+264
+00:40:32,750 --> 00:40:34,860
+<font face="Serif" size="18">Tengo que alcanzar al
+Sr. Rosa, por favor.</font>
+
+265
+00:40:34,870 --> 00:40:38,000
+<font face="Serif" size="18">Terminó la cena otra vez, naturalmente.</font>
+
+266
+00:40:44,800 --> 00:40:47,330
+<font face="Serif" size="18">¿Stan?</font>
+
+267
+00:40:47,340 --> 00:40:50,470
+<font face="Serif" size="18">Y él... voy, "sí, quiero
+decir ¿dónde estás?</font>
+
+268
+00:40:51,760 --> 00:40:53,880
+<font face="Serif" size="18">"No puedo, no sé dónde estás, Cecil"</font>
+
+269
+00:40:53,890 --> 00:40:56,470
+<font face="Serif" size="18">Y él va, "no donde tú estés"</font>
+
+270
+00:40:56,480 --> 00:40:59,600
+<font face="Serif" size="18">Pensé, "Dios mío".
+Me acabo de sentir tan mal.</font>
+
+271
+00:41:27,750 --> 00:41:30,880
+<font face="Serif" size="18">¿Bruce?</font>
+
+272
+00:41:35,760 --> 00:41:38,890
+<font face="Serif" size="18">¿Betty? ¿Qué sucede?</font>
+
+273
+00:41:54,150 --> 00:41:55,350
+<font face="Serif" size="18">Betty...</font>
+
+274
+00:41:55,360 --> 00:41:58,490
+<font face="Serif" size="18">Solo dime si vi lo que creo que vi.</font>
+
+275
+00:41:59,740 --> 00:42:02,860
+<font face="Serif" size="18">- No sé que decir.
+- Por favor, solo dime la verdad.</font>
+
+276
+00:42:44,820 --> 00:42:47,940
+<font face="Serif" size="18">No te vayas. No te vayas.</font>
+
+277
+00:42:57,290 --> 00:42:59,320
+<font face="Serif" size="18">Quiero que vengas conmigo ahora.</font>
+
+278
+00:42:59,330 --> 00:43:02,460
+<font face="Serif" size="18">Por favor. Ven conmigo.</font>
+
+279
+00:43:02,960 --> 00:43:06,080
+<font face="Serif" size="18">Por favor.</font>
+
+280
+00:43:34,320 --> 00:43:36,810
+<font face="Serif" size="18">Son nuestros datos.</font>
+
+281
+00:43:36,820 --> 00:43:39,950
+<font face="Serif" size="18">Debo entrar antes de
+que ellos escupan todo.</font>
+
+282
+00:43:42,070 --> 00:43:45,200
+<font face="Serif" size="18">Espero que en algún lugar quizás
+alguien nos pueda decir algo.</font>
+
+283
+00:43:48,080 --> 00:43:51,210
+<font face="Serif" size="18">- ¿Sabe el General que tienes esto?
+- No, no lo creo.</font>
+
+284
+00:43:52,830 --> 00:43:55,240
+<font face="Serif" size="18">No hablo con él desde
+hace un par de años.</font>
+
+285
+00:43:55,250 --> 00:43:56,820
+<font face="Serif" size="18">Tienes que estar segura.</font>
+
+286
+00:43:56,830 --> 00:44:00,770
+<font face="Serif" size="18">Bruce, no entiendo el por qué no
+podemos entrar ahí y contarle.</font>
+
+287
+00:44:01,960 --> 00:44:05,090
+<font face="Serif" size="18">Me dijo que quería hacer.
+Lo quería sin mí</font>
+
+288
+00:44:07,010 --> 00:44:10,140
+<font face="Serif" size="18">Quiere detenerlo
+para así solucionarlo.</font>
+
+289
+00:44:10,350 --> 00:44:13,470
+<font face="Serif" size="18">Quiere crear un arma.</font>
+
+290
+00:45:04,470 --> 00:45:06,880
+<font face="Serif" size="18">- Hola.
+- Hola.</font>
+
+291
+00:45:06,890 --> 00:45:10,020
+<font face="Serif" size="18">- Pensé que quizás...
+- Gracias.</font>
+
+292
+00:45:12,690 --> 00:45:15,820
+<font face="Serif" size="18">Escucha, debería irme temprano,
+lo más temprano que pueda.</font>
+
+293
+00:45:16,360 --> 00:45:19,490
+<font face="Serif" size="18">¿En serio?
+¿No puedes quedarte?</font>
+
+294
+00:45:19,860 --> 00:45:22,990
+<font face="Serif" size="18">Quiero, pero no es seguro
+para mi estar aquí.</font>
+
+295
+00:45:25,740 --> 00:45:28,570
+<font face="Serif" size="18">- Si pudiera pedirte prestado algo
+de dinero... - Por supuesto.</font>
+
+296
+00:45:28,580 --> 00:45:30,280
+<font face="Serif" size="18">Necesito tomar un autobús.</font>
+
+297
+00:45:30,290 --> 00:45:33,420
+<font face="Serif" size="18">Bueno, al menos déjame
+acompañarte a la estación.</font>
+
+298
+00:45:34,960 --> 00:45:38,090
+<font face="Serif" size="18">Bien.</font>
+
+299
+00:45:39,920 --> 00:45:43,050
+<font face="Serif" size="18">- ¿Tienes todo lo que necesitas?
+- Sí.</font>
+
+300
+00:45:45,590 --> 00:45:48,080
+<font face="Serif" size="18">Yo...</font>
+
+301
+00:45:48,090 --> 00:45:51,220
+<font face="Serif" size="18">¿Qué?</font>
+
+302
+00:45:51,560 --> 00:45:53,710
+<font face="Serif" size="18">- Buenas noches.
+- Buenas noches.</font>
+
+303
+00:45:53,720 --> 00:45:56,850
+<font face="Serif" size="18">Espero que descanses.</font>
+
+304
+00:46:37,840 --> 00:46:40,790
+<font face="Serif" size="18">Te vamos a dar una dosis muy suave.</font>
+
+305
+00:46:40,800 --> 00:46:43,550
+<font face="Serif" size="18">Necesito que lo saques y lo eduques.</font>
+
+306
+00:46:43,560 --> 00:46:45,630
+<font face="Serif" size="18">Al primer signo de efecto secundario,</font>
+
+307
+00:46:45,640 --> 00:46:48,770
+<font face="Serif" size="18">y lo detenemos y te irás del
+equipo hasta recuperarte.</font>
+
+308
+00:46:50,100 --> 00:46:53,230
+<font face="Serif" size="18">- ¿De acuerdo?
+- De acuerdo.</font>
+
+309
+00:46:55,780 --> 00:46:58,600
+<font face="Serif" size="18">Recibirás dos compuestos diferentes.</font>
+
+310
+00:46:58,610 --> 00:47:01,740
+<font face="Serif" size="18">Uno muy profundo en el músculo,
+y uno en el centro de la médula.</font>
+
+311
+00:47:02,910 --> 00:47:06,030
+<font face="Serif" size="18">El de la médula dolerá.</font>
+
+312
+00:47:51,820 --> 00:47:54,950
+<font face="Serif" size="18">¿Está todo bien?</font>
+
+313
+00:47:55,530 --> 00:47:58,150
+<font face="Serif" size="18">Eso creo.</font>
+
+314
+00:48:05,290 --> 00:48:08,280
+<font face="Serif" size="18">Ven aquí.</font>
+
+315
+00:48:08,290 --> 00:48:11,420
+<font face="Serif" size="18">Solo quiero hacer esto.</font>
+
+316
+00:48:11,550 --> 00:48:14,670
+<font face="Serif" size="18">- Está mejor así.
+- ¿Sí?</font>
+
+317
+00:48:18,390 --> 00:48:19,960
+<font face="Serif" size="18">Está demasiado apretado, ¿no?</font>
+
+318
+00:48:19,970 --> 00:48:23,100
+<font face="Serif" size="18">- Sí, un poco.
+- Bien.</font>
+
+319
+00:48:29,230 --> 00:48:32,360
+<font face="Serif" size="18">- ¿Qué?
+- Están aquí.</font>
+
+320
+00:48:32,560 --> 00:48:34,060
+<font face="Serif" size="18">- Betty, mírame, ¡mírame!
+- ¡Bruce!</font>
+
+321
+00:48:34,070 --> 00:48:35,390
+<font face="Serif" size="18">¡Debes alejarte lo
+más que puedas de mi!</font>
+
+322
+00:48:35,400 --> 00:48:38,530
+<font face="Serif" size="18">- No me discutas, hazlo. ¡Vete!
+- ¡Bruce!</font>
+
+323
+00:48:48,080 --> 00:48:50,280
+<font face="Serif" size="18">¡Demonios! Deberíamos tener
+francotiradores en tres minutos.</font>
+
+324
+00:48:50,290 --> 00:48:53,420
+<font face="Serif" size="18">Quiero saber quién saltó el arma.</font>
+
+325
+00:48:54,080 --> 00:48:57,210
+<font face="Serif" size="18">Se dirige a 2-7-0.</font>
+
+326
+00:49:12,430 --> 00:49:15,550
+<font face="Serif" size="18">¡Blonsky! ¡Todavía no!</font>
+
+327
+00:49:15,560 --> 00:49:18,340
+<font face="Serif" size="18">Señor.</font>
+
+328
+00:49:18,350 --> 00:49:21,480
+<font face="Serif" size="18">Parece vivo. Esto se puede
+poner interesante.</font>
+
+329
+00:50:07,980 --> 00:50:09,340
+<font face="Serif" size="18">¡Lo tengo!</font>
+
+330
+00:50:09,350 --> 00:50:12,480
+<font face="Serif" size="18">¡Alto! ¡Alto!</font>
+
+331
+00:50:14,270 --> 00:50:17,400
+<font face="Serif" size="18">¡Sé que estás ahí!</font>
+
+332
+00:50:17,490 --> 00:50:20,610
+<font face="Serif" size="18">¡General, por favor!</font>
+
+333
+00:50:21,610 --> 00:50:23,270
+<font face="Serif" size="18">¿Señor?</font>
+
+334
+00:50:23,280 --> 00:50:26,410
+<font face="Serif" size="18">¡Papá!</font>
+
+335
+00:50:31,830 --> 00:50:34,960
+<font face="Serif" size="18">- Papá, por favor no le hagas esto.
+- No lo ves claramente. Ahora, entra.</font>
+
+336
+00:50:36,040 --> 00:50:37,950
+<font face="Serif" size="18">¡Ahí está!</font>
+
+337
+00:50:37,960 --> 00:50:40,240
+<font face="Serif" size="18">El objetivo está en la parte superior.
+Tenemos contacto visual.</font>
+
+338
+00:50:40,250 --> 00:50:43,380
+<font face="Serif" size="18">¡No lo tomen! Repito, ¡no lo tomen!</font>
+
+339
+00:50:48,140 --> 00:50:51,260
+<font face="Serif" size="18">Está encerrado.</font>
+
+340
+00:50:55,680 --> 00:50:57,840
+<font face="Serif" size="18">Introduzca dos frascos ahí con él.</font>
+
+341
+00:50:57,850 --> 00:51:00,980
+<font face="Serif" size="18">¡Fuego!</font>
+
+342
+00:51:18,080 --> 00:51:21,210
+<font face="Serif" size="18">¡Háganla regresar aquí!</font>
+
+343
+00:51:53,730 --> 00:51:55,720
+<font face="Serif" size="18">Ahora lo verá.</font>
+
+344
+00:52:17,630 --> 00:52:20,740
+<font face="Serif" size="18">¿Equipo Alfa?</font>
+
+345
+00:52:20,750 --> 00:52:23,880
+<font face="Serif" size="18">Déjenlo que reciba todo.</font>
+
+346
+00:52:28,090 --> 00:52:31,220
+<font face="Serif" size="18">Vamos, ¡ilumínenlo!</font>
+
+347
+00:52:32,850 --> 00:52:35,980
+<font face="Serif" size="18">¿Dónde están sus calibre cincuenta?
+¡Muevan el culo!</font>
+
+348
+00:53:24,350 --> 00:53:27,480
+<font face="Serif" size="18">¡Dios mío!</font>
+
+349
+00:53:29,190 --> 00:53:30,930
+<font face="Serif" size="18">¡Blonsky, préparate!</font>
+
+350
+00:53:30,940 --> 00:53:33,220
+<font face="Serif" size="18">¿Señor?</font>
+
+351
+00:53:33,230 --> 00:53:36,360
+<font face="Serif" size="18">Cúbreme.</font>
+
+352
+00:53:52,620 --> 00:53:55,750
+<font face="Serif" size="18">¿Me recuerda?</font>
+
+353
+00:54:14,100 --> 00:54:17,230
+<font face="Serif" size="18">Mi Dios, lo está haciendo.</font>
+
+354
+00:54:20,520 --> 00:54:23,650
+<font face="Serif" size="18">¡Muévelo hacia los cañones!</font>
+
+355
+00:54:27,990 --> 00:54:31,110
+<font face="Serif" size="18">¡Muévete!</font>
+
+356
+00:54:42,580 --> 00:54:43,910
+<font face="Serif" size="18">¡Sostengan sus posiciones!</font>
+
+357
+00:54:43,920 --> 00:54:46,910
+<font face="Serif" size="18">¡Hazlo ahora!</font>
+
+358
+00:55:11,110 --> 00:55:12,720
+<font face="Serif" size="18">¡Por favor, por favor, por favor, no!</font>
+
+359
+00:55:12,730 --> 00:55:14,220
+<font face="Serif" size="18">- ¡Por favor, por favor, por favor!
+- ¡Háganla regresar!</font>
+
+360
+00:55:14,230 --> 00:55:15,350
+<font face="Serif" size="18">¡Lo estás matando!</font>
+
+361
+00:55:15,360 --> 00:55:17,770
+<font face="Serif" size="18">¡Alto! ¡Suéltenme!</font>
+
+362
+00:55:17,780 --> 00:55:20,900
+<font face="Serif" size="18">¡Alto! ¡Suéltenme!</font>
+
+363
+00:55:22,590 --> 00:55:25,720
+<font face="Serif" size="18">¡Bruce! ¡Bruce!</font>
+
+364
+00:55:55,870 --> 00:55:59,000
+<font face="Serif" size="18">¿Dónde está el helicóptero?</font>
+
+365
+00:56:17,100 --> 00:56:18,390
+<font face="Serif" size="18">¿Eso es todo?</font>
+
+366
+00:56:18,390 --> 00:56:20,270
+<font face="Serif" size="18">Blonsky, retírate, ahora.</font>
+
+367
+00:56:20,270 --> 00:56:23,390
+<font face="Serif" size="18">¡Retírate!</font>
+
+368
+00:56:24,690 --> 00:56:27,020
+<font face="Serif" size="18">¿Eso es todo lo que tienes?</font>
+
+369
+00:56:34,030 --> 00:56:36,700
+<font face="Serif" size="18">- ¡Retrocedan!
+- ¡Retrocedan! ¡Vamos, vamos!</font>
+
+370
+00:56:36,700 --> 00:56:39,820
+<font face="Serif" size="18">¡Cúbranse!</font>
+
+371
+00:56:42,080 --> 00:56:45,200
+<font face="Serif" size="18">¡Betty!</font>
+
+372
+00:56:56,760 --> 00:56:59,880
+<font face="Serif" size="18">¡Fuego, maldita sea!</font>
+
+373
+00:57:00,050 --> 00:57:01,340
+<font face="Serif" size="18">¿Bruce?</font>
+
+374
+00:57:14,440 --> 00:57:17,560
+<font face="Serif" size="18">¡Paren el fuego!</font>
+
+375
+00:57:29,200 --> 00:57:32,330
+<font face="Serif" size="18">¡No!</font>
+
+376
+00:58:20,740 --> 00:58:23,870
+<font face="Serif" size="18">Hiciste bien en llamarnos.</font>
+
+377
+00:58:25,410 --> 00:58:28,420
+<font face="Serif" size="18">Necesito saber adónde van.</font>
+
+378
+00:58:28,420 --> 00:58:30,670
+<font face="Serif" size="18">Ella correrá mucho
+peligro mientras esté con él.</font>
+
+379
+00:58:30,670 --> 00:58:32,840
+<font face="Serif" size="18">¿Con quién?</font>
+
+380
+00:58:32,840 --> 00:58:35,550
+<font face="Serif" size="18">Él la protege. Tú casi la matas.</font>
+
+381
+00:58:35,550 --> 00:58:37,030
+<font face="Serif" size="18">Te doy mi palabra, su seguridad es mi</font>
+
+382
+00:58:37,030 --> 00:58:38,670
+<font face="Serif" size="18">principal preocupación en este momento.</font>
+
+383
+00:58:39,380 --> 00:58:42,180
+<font face="Serif" size="18">Ya sabes, es un orgullo profesional</font>
+
+384
+00:58:42,180 --> 00:58:45,300
+<font face="Serif" size="18">el saber siempre cuando
+alguien está mintiendo.</font>
+
+385
+00:58:45,430 --> 00:58:47,810
+<font face="Serif" size="18">Y tú lo estás haciendo.</font>
+
+386
+00:58:47,810 --> 00:58:50,930
+<font face="Serif" size="18">No sé hacia dónde va.</font>
+
+387
+00:58:51,020 --> 00:58:52,360
+<font face="Serif" size="18">Sé que ella lo ayudará si puede.</font>
+
+388
+00:58:52,360 --> 00:58:54,150
+<font face="Serif" size="18">Entonces estará ayudando a un fugitivo.</font>
+
+389
+00:58:56,480 --> 00:58:59,610
+<font face="Serif" size="18">Y no puedo estar del lado
+de ninguno de los dos.</font>
+
+390
+00:59:04,070 --> 00:59:07,200
+<font face="Serif" size="18">Solía preguntarme porqué
+ella nunca hablaba de usted.</font>
+
+391
+00:59:07,530 --> 00:59:10,660
+<font face="Serif" size="18">¡Ahora lo sé!</font>
+
+392
+00:59:13,830 --> 00:59:16,960
+<font face="Serif" size="18">¿Dónde conoció a estos tipos?</font>
+
+393
+01:00:05,660 --> 01:00:08,790
+<font face="Serif" size="18">¿Bruce?</font>
+
+394
+01:00:17,050 --> 01:00:20,180
+<font face="Serif" size="18">Bruce.</font>
+
+395
+01:00:38,400 --> 01:00:41,530
+<font face="Serif" size="18">Está bien, está bien.</font>
+
+396
+01:00:53,700 --> 01:00:56,830
+<font face="Serif" size="18">Ven aquí. Ven conmigo.</font>
+
+397
+01:00:59,670 --> 01:01:02,790
+<font face="Serif" size="18">Cuidado con la cabeza.</font>
+
+398
+01:01:16,390 --> 01:01:19,520
+<font face="Serif" size="18">Bien.</font>
+
+399
+01:01:28,320 --> 01:01:31,440
+<font face="Serif" size="18">Estamos bien.</font>
+
+400
+01:01:34,400 --> 01:01:37,530
+<font face="Serif" size="18">Está bien.</font>
+
+401
+01:01:37,610 --> 01:01:40,740
+<font face="Serif" size="18">Es sólo la lluvia.</font>
+
+402
+01:01:48,580 --> 01:01:50,880
+<font face="Serif" size="18">¿Volverá a caminar?</font>
+
+403
+01:01:50,880 --> 01:01:54,000
+<font face="Serif" size="18">La mayoría de los huesos de
+su cuerpo parecen gravilla.</font>
+
+404
+01:01:54,550 --> 01:01:57,670
+<font face="Serif" size="18">Diré esto por él.
+Su corazón es como de máquina.</font>
+
+405
+01:01:58,420 --> 01:02:01,550
+<font face="Serif" size="18">Nunca había visto algo parecido
+sin ser un caballo de carreras.</font>
+
+406
+01:03:04,190 --> 01:03:06,860
+<font face="Serif" size="18">Aquí.</font>
+
+407
+01:03:06,860 --> 01:03:09,980
+<font face="Serif" size="18">Bien.</font>
+
+408
+01:03:48,680 --> 01:03:51,390
+<font face="Serif" size="18">¿Bruce?</font>
+
+409
+01:03:51,390 --> 01:03:53,230
+<font face="Serif" size="18">Hola.</font>
+
+410
+01:03:53,230 --> 01:03:54,980
+<font face="Serif" size="18">¿Estás bien?</font>
+
+411
+01:03:54,980 --> 01:03:56,310
+<font face="Serif" size="18">Sí.</font>
+
+412
+01:03:56,310 --> 01:03:58,650
+<font face="Serif" size="18">Sí, de hecho, me siento mucho mejor.</font>
+
+413
+01:03:58,650 --> 01:03:58,980
+<font face="Serif" size="18">Bien.</font>
+
+414
+01:03:58,980 --> 01:04:01,780
+<font face="Serif" size="18">Sólo falta que recupere
+mi información.</font>
+
+415
+01:04:02,780 --> 01:04:03,990
+<font face="Serif" size="18">¿Te la comiste?</font>
+
+416
+01:04:03,990 --> 01:04:07,110
+<font face="Serif" size="18">Bueno, las circunstancias
+necesitaron un poco de improvisación.</font>
+
+417
+01:04:08,320 --> 01:04:10,910
+<font face="Serif" size="18">¡Vaya!</font>
+
+418
+01:04:10,910 --> 01:04:14,040
+<font face="Serif" size="18">Bien, no había gran variedad,
+pero te traje algunas alternativas.</font>
+
+419
+01:04:15,330 --> 01:04:18,000
+<font face="Serif" size="18">Lo primero es lo primero.</font>
+
+420
+01:04:18,000 --> 01:04:21,130
+<font face="Serif" size="18">Debes estar bromeando.</font>
+
+421
+01:04:29,880 --> 01:04:31,590
+<font face="Serif" size="18">¿Qué?</font>
+
+422
+01:04:31,590 --> 01:04:34,510
+<font face="Serif" size="18">- No.
+- Era el par más ajustado que tenían.</font>
+
+423
+01:04:34,510 --> 01:04:36,060
+<font face="Serif" size="18">Me arriesgaré.</font>
+
+424
+01:04:36,060 --> 01:04:38,640
+<font face="Serif" size="18">Continúan los rumores sobre
+un violento enfrentamiento</font>
+
+425
+01:04:38,640 --> 01:04:41,770
+<font face="Serif" size="18">entre las las fuerzas militares de
+los EE.UU. y un rival desconocido</font>
+
+426
+01:04:42,520 --> 01:04:45,560
+<font face="Serif" size="18">en el campus de la Universidad
+Culver hace unos momentos.</font>
+
+427
+01:04:45,560 --> 01:04:47,150
+<font face="Serif" size="18">Los estudiantes
+Jack McGhee y Jim Wilson</font>
+
+428
+01:04:47,150 --> 01:04:48,690
+<font face="Serif" size="18">presenciaron una parte de la batalla.</font>
+
+429
+01:04:48,900 --> 01:04:50,440
+<font face="Serif" size="18">Era muy grande.</font>
+
+430
+01:04:50,440 --> 01:04:53,400
+<font face="Serif" size="18">- Era así de grande, ¡como Hulk!
+- Sí.</font>
+
+431
+01:04:53,400 --> 01:04:56,530
+<font face="Serif" size="18">McGhee, que es reportero
+del periódico del campus,</font>
+
+432
+01:04:56,530 --> 01:04:58,320
+<font face="Serif" size="18">grabó esto con su teléfono celular.</font>
+
+433
+01:04:58,320 --> 01:05:00,120
+<font face="Serif" size="18">Más investigaciones
+sobre el misterioso "Hulk"</font>
+
+434
+01:05:00,120 --> 01:05:01,680
+<font face="Serif" size="18">fueron postergadas
+por una fuerte tormenta</font>
+
+435
+01:05:01,680 --> 01:05:03,770
+<font face="Serif" size="18">en el Bosque Nacional
+de la Montaña Smoky.</font>
+
+436
+01:05:12,130 --> 01:05:15,170
+<font face="Serif" size="18">No muy corto ahí atrás.</font>
+
+437
+01:05:15,170 --> 01:05:18,300
+<font face="Serif" size="18">He hecho esto antes, ¿sabes?</font>
+
+438
+01:05:33,520 --> 01:05:36,190
+<font face="Serif" size="18">No sé cómo lo has hecho por
+tu cuenta todo este tiempo.</font>
+
+439
+01:05:36,190 --> 01:05:38,190
+<font face="Serif" size="18">Normalmente, con cortaúñas.</font>
+
+440
+01:06:32,940 --> 01:06:35,740
+<font face="Serif" size="18">- Espera, espera, espera.
+- ¿Qué? ¿Qué?</font>
+
+441
+01:06:35,740 --> 01:06:37,200
+<font face="Serif" size="18">No podemos hacerlo.</font>
+
+442
+01:06:37,200 --> 01:06:40,330
+<font face="Serif" size="18">- Está bien, yo quiero.
+- No.</font>
+
+443
+01:06:40,330 --> 01:06:42,580
+<font face="Serif" size="18">No.</font>
+
+444
+01:06:42,580 --> 01:06:43,990
+<font face="Serif" size="18">No puedo.</font>
+
+445
+01:06:47,370 --> 01:06:50,500
+<font face="Serif" size="18">No me puedo excitar mucho.</font>
+
+446
+01:06:52,090 --> 01:06:54,250
+<font face="Serif" size="18">¿Ni siquiera un poco?</font>
+
+447
+01:06:56,840 --> 01:06:59,970
+<font face="Serif" size="18">Está bien.</font>
+
+448
+01:07:02,890 --> 01:07:06,010
+<font face="Serif" size="18">Señor, es Blonsky.</font>
+
+449
+01:07:07,260 --> 01:07:10,390
+<font face="Serif" size="18">¿Averiguaron si se ha acercado
+a parientes o a familiares?</font>
+
+450
+01:07:10,980 --> 01:07:14,100
+<font face="Serif" size="18">Pregúntele usted mismo.</font>
+
+451
+01:07:16,440 --> 01:07:19,570
+<font face="Serif" size="18">¿Señor?</font>
+
+452
+01:07:37,710 --> 01:07:40,830
+<font face="Serif" size="18">- Qué bueno verlo recuperado, soldado.
+- Gracias, señor.</font>
+
+453
+01:07:48,670 --> 01:07:51,800
+<font face="Serif" size="18">¿Cómo te sientes?</font>
+
+454
+01:07:51,880 --> 01:07:55,010
+<font face="Serif" size="18">Enojado y listo para el tercer round.</font>
+
+455
+01:08:00,730 --> 01:08:03,850
+<font face="Serif" size="18">Básicamente, no podemos usar nada
+de esto, porque los pueden rastrear.</font>
+
+456
+01:08:04,810 --> 01:08:07,940
+<font face="Serif" size="18">Bueno... ¿mi brillo de labios?
+¿Pueden rastrearlo?</font>
+
+457
+01:08:08,570 --> 01:08:11,690
+<font face="Serif" size="18">- No. Puedes llevarte tu brillo de labios.
+- Gracias.</font>
+
+458
+01:08:11,780 --> 01:08:14,780
+<font face="Serif" size="18">- Bueno, necesito mis anteojos.
+- Bueno puedes llevarte</font>
+
+459
+01:08:14,780 --> 01:08:16,030
+<font face="Serif" size="18">- tus anteojos y tu reloj, ¿está bien?
+- Está bien.</font>
+
+460
+01:08:16,030 --> 01:08:16,830
+<font face="Serif" size="18">Podemos usar la mayoría.</font>
+
+461
+01:08:16,830 --> 01:08:19,160
+<font face="Serif" size="18">No podemos usar las tarjetas, las
+identificaciones ni el teléfono.</font>
+
+462
+01:08:19,740 --> 01:08:22,160
+<font face="Serif" size="18">- Ni siquiera lo enciendas.
+- Bien.</font>
+
+463
+01:08:22,160 --> 01:08:24,370
+<font face="Serif" size="18">Y llevaremos el efectivo, obviamente.</font>
+
+464
+01:08:24,370 --> 01:08:27,500
+<font face="Serif" size="18">¿Cómo iremos donde debemos ir
+con $40 y sin tarjetas de crédito?</font>
+
+465
+01:08:31,330 --> 01:08:34,300
+<font face="Serif" size="18">Bueno, podemos vender esto.</font>
+
+466
+01:08:34,300 --> 01:08:37,420
+<font face="Serif" size="18">No. Es lo único que
+te queda de ella. No.</font>
+
+467
+01:08:40,050 --> 01:08:43,180
+<font face="Serif" size="18">Bien, tendremos que recuperarlo.</font>
+
+468
+01:08:43,430 --> 01:08:45,430
+<font face="Serif" size="18">Los federales ya han
+intervenido los teléfonos,</font>
+
+469
+01:08:45,430 --> 01:08:47,760
+<font face="Serif" size="18">tarjetas de crédito y cuentas
+de internet de la Dra. Ross,</font>
+
+470
+01:08:47,760 --> 01:08:50,100
+<font face="Serif" size="18">y la policía local
+ha sido puesta en alerta.</font>
+
+471
+01:08:50,100 --> 01:08:52,850
+<font face="Serif" size="18">Aparecerán por algún lugar
+y en cuanto lo hagan, nos enteraremos.</font>
+
+472
+01:08:52,850 --> 01:08:54,900
+<font face="Serif" size="18">No van a aparecer así nada más.</font>
+
+473
+01:08:54,900 --> 01:08:58,020
+<font face="Serif" size="18">Lo hizo cinco años y cruzó
+fronteras sin cometer errores.</font>
+
+474
+01:08:58,020 --> 01:09:00,280
+<font face="Serif" size="18">No va a usar ahora
+una tarjeta de crédito.</font>
+
+475
+01:09:00,280 --> 01:09:02,110
+<font face="Serif" size="18"><i>Si estuviera tratando de escapar,
+ya lo hubiese hecho.</i></font>
+
+476
+01:09:02,110 --> 01:09:03,360
+<font face="Serif" size="18"><i>No está tratando
+de escapar esta vez.</i></font>
+
+477
+01:09:03,360 --> 01:09:05,950
+<font face="Serif" size="18"><i>Está buscando ayuda
+y así es cómo vamos a atraparlo.</i></font>
+
+478
+01:09:05,950 --> 01:09:08,450
+<font face="Serif" size="18"><i>Sabemos tras qué están y sabemos
+que ha estado hablando con alguien.</i></font>
+
+479
+01:09:08,450 --> 01:09:10,780
+<font face="Serif" size="18"><i>Todos tienen copias
+de la correspondencia.</i></font>
+
+480
+01:09:10,780 --> 01:09:12,910
+<font face="Serif" size="18"><i>Los alias Sr. Green y Sr. Blue</i></font>
+
+481
+01:09:12,910 --> 01:09:16,040
+<font face="Serif" size="18"><i>han sido agregados a la
+base de datos de operaciones.</i></font>
+
+482
+01:09:16,040 --> 01:09:19,000
+<font face="Serif" size="18"><i>Si se acerca por aire,
+estaremos esperando.</i></font>
+
+483
+01:09:19,000 --> 01:09:21,290
+<font face="Serif" size="18"><i>Si hace pío, lo oiremos.
+</i></font>
+
+484
+01:09:21,290 --> 01:09:24,420
+<font face="Serif" size="18"><i>Y cuando cometa un desliz,
+estaremos listos.</i></font>
+
+485
+01:09:29,820 --> 01:09:31,910
+<font face="Serif" size="18">EJECUCIÓN DE INTERVENCIÓN ESTRATÉGICA
+DIVISIÓN DE LOGÍSTICA</font>
+
+486
+01:09:39,500 --> 01:09:41,740
+<font face="Serif" size="18">Sr. Blue. Aquí están los datos.
+Es tiempo de encontrarnos.</font>
+
+487
+01:09:42,980 --> 01:09:44,980
+<font face="Serif" size="18">UNIVERSIDAD GRAYBURN
+DEPARTAMENTO DE BIOLOGÍA CELULAR</font>
+
+488
+01:09:44,980 --> 01:09:47,020
+<font face="Serif" size="18">Concordancia encontrada.</font>
+
+489
+01:09:51,470 --> 01:09:53,540
+<font face="Serif" size="18">Concordancia encontrada.</font>
+
+490
+01:10:06,580 --> 01:10:09,540
+<font face="Serif" size="18">Oye.</font>
+
+491
+01:10:09,540 --> 01:10:12,670
+<font face="Serif" size="18">Sonríe.</font>
+
+492
+01:10:21,180 --> 01:10:24,300
+<font face="Serif" size="18">¿Cómo es?</font>
+
+493
+01:10:24,760 --> 01:10:27,890
+<font face="Serif" size="18">Cuando pasa, ¿qué sientes?</font>
+
+494
+01:10:28,270 --> 01:10:30,930
+<font face="Serif" size="18">¿Recuerdas esos experimentos en
+que fuimos voluntarios en Harvard?</font>
+
+495
+01:10:30,930 --> 01:10:33,770
+<font face="Serif" size="18">¿Ésos que produjeron alucinaciones?</font>
+
+496
+01:10:33,770 --> 01:10:36,900
+<font face="Serif" size="18">Se parece mucho a eso,
+sólo que mil veces peor.</font>
+
+497
+01:10:39,020 --> 01:10:42,150
+<font face="Serif" size="18">Es como si alguien vertiera
+un litro de ácido dentro de mi cabeza.</font>
+
+498
+01:10:43,030 --> 01:10:48,160
+<font face="Serif" size="18">- ¿Recuerdas algo?
+- Sólo partes. Imágenes.</font>
+
+499
+01:10:48,370 --> 01:10:51,490
+<font face="Serif" size="18">Hay demasiado ruido.
+Nunca puedo obtener nada.</font>
+
+500
+01:10:51,620 --> 01:10:55,740
+<font face="Serif" size="18">- Pero entonces aún eres tú dentro de él.
+- No. No es así.</font>
+
+501
+01:10:57,620 --> 01:11:02,250
+<font face="Serif" size="18">No sé. En la cueva, parecía
+que realmente me conocía.</font>
+
+502
+01:11:02,540 --> 01:11:04,040
+<font face="Serif" size="18">Tal vez tu mente está ahí,</font>
+
+503
+01:11:04,040 --> 01:11:06,760
+<font face="Serif" size="18">sólo que acabas de sobrecargarte
+y no puedes procesar lo que pasa.</font>
+
+504
+01:11:06,760 --> 01:11:09,880
+<font face="Serif" size="18">No quiero controlarlo.
+Quiero librarme de él.</font>
+
+505
+01:11:23,270 --> 01:11:24,810
+<font face="Serif" size="18">¿Está listo?</font>
+
+506
+01:11:24,810 --> 01:11:27,940
+<font face="Serif" size="18">Igualemos el campo
+de juego un poco.</font>
+
+507
+01:11:29,980 --> 01:11:33,110
+<font face="Serif" size="18">Caballeros.</font>
+
+508
+01:11:35,240 --> 01:11:38,370
+<font face="Serif" size="18">Bruce, despierta.
+Algo está ocurriendo.</font>
+
+509
+01:11:50,000 --> 01:11:51,810
+<font face="Serif" size="18">Debemos irnos. Salgamos hacia atrás.</font>
+
+510
+01:11:51,810 --> 01:11:53,130
+<font face="Serif" size="18">No te muevas muy rápido.</font>
+
+511
+01:12:08,520 --> 01:12:10,280
+<font face="Serif" size="18">Muy bien. Vengan.</font>
+
+512
+01:12:23,940 --> 01:12:25,630
+<font face="Serif" size="18">Es un largo camino hasta las afueras.</font>
+
+513
+01:12:25,630 --> 01:12:27,590
+<font face="Serif" size="18">El metro es probablemente lo más rápido.</font>
+
+514
+01:12:29,160 --> 01:12:31,160
+<font face="Serif" size="18">¿Yo en un tubo de metal, bajo tierra,</font>
+
+515
+01:12:31,160 --> 01:12:33,700
+<font face="Serif" size="18">con cientos de personas en la
+ciudad más agresiva del mundo?</font>
+
+516
+01:12:33,700 --> 01:12:36,460
+<font face="Serif" size="18">Bien. Tomemos un taxi.</font>
+
+517
+01:12:36,460 --> 01:12:39,240
+<font face="Serif" size="18">¡Dale ahora! ¡Vamos!
+¡Eres demasiado lento!</font>
+
+518
+01:12:39,240 --> 01:12:40,800
+<font face="Serif" size="18">¡Manejas como una mujer!</font>
+
+519
+01:12:45,590 --> 01:12:47,260
+<font face="Serif" size="18">- Muy linda. ¿La vio?
+- Oh, Dios.</font>
+
+520
+01:12:47,260 --> 01:12:50,380
+<font face="Serif" size="18">Muy bonita. ¡Cuidado imbécil!</font>
+
+521
+01:12:50,470 --> 01:12:52,970
+<font face="Serif" size="18">Respire, respire, respire.</font>
+
+522
+01:12:55,800 --> 01:12:58,560
+<font face="Serif" size="18">¿Estás loco?</font>
+
+523
+01:12:58,560 --> 01:12:59,970
+<font face="Serif" size="18">- ¿Qué te pasa?
+- ¿Cuál es el problema bebé?</font>
+
+524
+01:12:59,970 --> 01:13:02,140
+<font face="Serif" size="18">¿No te gusta que te paseen bien?</font>
+
+525
+01:13:03,520 --> 01:13:06,020
+<font face="Serif" size="18">¡Estúpido!</font>
+
+526
+01:13:07,900 --> 01:13:10,480
+<font face="Serif" size="18">Sabes, sé algunas técnicas
+que podrían ayudarte</font>
+
+527
+01:13:10,480 --> 01:13:14,700
+<font face="Serif" size="18">- a controlar esa ira eficazmente.
+- Cállate. Caminemos.</font>
+
+528
+01:13:15,110 --> 01:13:16,990
+<font face="Serif" size="18">Está bien.</font>
+
+529
+01:13:23,700 --> 01:13:25,750
+<font face="Serif" size="18">Disculpe. ¿Dr. Sterns?</font>
+
+530
+01:13:25,750 --> 01:13:25,950
+<font face="Serif" size="18">Sí.</font>
+
+531
+01:13:25,950 --> 01:13:28,870
+<font face="Serif" size="18">Siento molestarlo.
+Soy Elizabeth Ross.</font>
+
+532
+01:13:29,210 --> 01:13:31,290
+<font face="Serif" size="18">¡Dra. Ross!</font>
+
+533
+01:13:31,290 --> 01:13:33,160
+<font face="Serif" size="18">Estoy con alguien a quien
+le gustaría conocerlo.</font>
+
+534
+01:13:33,200 --> 01:13:34,420
+<font face="Serif" size="18">Está bien.</font>
+
+535
+01:13:36,710 --> 01:13:39,840
+<font face="Serif" size="18">Es el Sr. Blue, ¿no?</font>
+
+536
+01:13:40,010 --> 01:13:43,140
+<font face="Serif" size="18">¿Sr. Green?</font>
+
+537
+01:13:43,640 --> 01:13:46,760
+<font face="Serif" size="18">Debo decirle, me he
+preguntado incluso si era real.</font>
+
+538
+01:13:47,390 --> 01:13:49,220
+<font face="Serif" size="18">Y si lo fuera, ¿cómo sería?</font>
+
+539
+01:13:49,220 --> 01:13:53,630
+<font face="Serif" size="18">Una persona con todo eso
+poder ocultándolo en él.</font>
+
+540
+01:13:53,980 --> 01:13:55,690
+<font face="Serif" size="18">Nada podría haberme sorprendido más</font>
+
+541
+01:13:55,690 --> 01:13:58,650
+<font face="Serif" size="18">que este modesto hombre
+estrechando mi mano.</font>
+
+542
+01:13:58,650 --> 01:14:01,400
+<font face="Serif" size="18">Pero, mire. No estamos paseando
+en el parque para un picnic, aquí.</font>
+
+543
+01:14:01,400 --> 01:14:03,150
+<font face="Serif" size="18">Incluso si todo va perfectamente,</font>
+
+544
+01:14:03,150 --> 01:14:07,310
+<font face="Serif" size="18">si inducimos un episodio,
+si logramos la dosis correcta,</font>
+
+545
+01:14:07,990 --> 01:14:09,990
+<font face="Serif" size="18">¿será esa una cura duradera</font>
+
+546
+01:14:09,990 --> 01:14:13,120
+<font face="Serif" size="18">o sólo un antídoto para contener
+ese estallido específico?</font>
+
+547
+01:14:15,620 --> 01:14:17,830
+<font face="Serif" size="18">No lo sé.</font>
+
+548
+01:14:17,830 --> 01:14:22,990
+<font face="Serif" size="18">Lo que digo es que si erramos
+aun en lo más mínimo</font>
+
+549
+01:14:23,500 --> 01:14:25,770
+<font face="Serif" size="18">nos enfcrentamos a concentraciones</font>
+
+550
+01:14:25,770 --> 01:14:28,470
+<font face="Serif" size="18">con extraordinarios
+niveles de toxicidad.</font>
+
+551
+01:14:28,470 --> 01:14:33,430
+<font face="Serif" size="18">- Quiere decir que podría matarlo.
+- ¿Matarlo? Sí. Podría decirlo.</font>
+
+552
+01:14:34,720 --> 01:14:36,930
+<font face="Serif" size="18">Debe saber que hay una
+contracara a esto, también.</font>
+
+553
+01:14:36,930 --> 01:14:40,060
+<font face="Serif" size="18">Si fallamos por lo bajo,
+si me induce y falla,</font>
+
+554
+01:14:40,560 --> 01:14:43,690
+<font face="Serif" size="18">será muy peligroso para usted.</font>
+
+555
+01:14:44,810 --> 01:14:48,740
+<font face="Serif" size="18">Mire. Siempre he sido
+más curioso que cauteloso,</font>
+
+556
+01:14:48,940 --> 01:14:53,180
+<font face="Serif" size="18">y eso me ha servido muy bien.
+Así que, ¿vamos a hacer esto?</font>
+
+557
+01:15:48,240 --> 01:15:50,220
+<font face="Serif" size="18">¿Cómo se siente?</font>
+
+558
+01:15:51,620 --> 01:15:54,750
+<font face="Serif" size="18">Como un monstruo.</font>
+
+559
+01:16:13,090 --> 01:16:15,600
+<font face="Serif" size="18">Bien. Sobre la mesa.</font>
+
+560
+01:16:15,600 --> 01:16:22,140
+<font face="Serif" size="18">Éstos lo protegerán de usted mismo
+por si tiene una fuerte reacción.</font>
+
+561
+01:16:22,230 --> 01:16:25,350
+<font face="Serif" size="18">Me puede decir después
+si piensa que fueron fuertes.</font>
+
+562
+01:16:29,400 --> 01:16:34,530
+<font face="Serif" size="18">¡Vamos! Estúpidos
+estudiantes de postgrado.</font>
+
+563
+01:16:38,450 --> 01:16:40,160
+<font face="Serif" size="18">Bien...</font>
+
+564
+01:16:40,160 --> 01:16:42,310
+<font face="Serif" size="18">Tú, tú, tú.</font>
+
+565
+01:16:43,240 --> 01:16:46,370
+<font face="Serif" size="18">Ésta será una sensación
+un tanto nueva.</font>
+
+566
+01:16:49,370 --> 01:16:52,500
+<font face="Serif" size="18">Hemos empezado.</font>
+
+567
+01:16:52,710 --> 01:16:55,840
+<font face="Serif" size="18">La máquina de diálisis mezclará
+el antídoto con su sangre.</font>
+
+568
+01:16:55,840 --> 01:16:58,970
+<font face="Serif" size="18">Pero el antídoto sólo hará efecto
+una vez lograda una reacción completa.</font>
+
+569
+01:17:00,380 --> 01:17:02,300
+<font face="Serif" size="18">Relájate.</font>
+
+570
+01:17:02,300 --> 01:17:06,020
+<font face="Serif" size="18">Bien. Estamos completos.</font>
+
+571
+01:17:08,850 --> 01:17:09,940
+<font face="Serif" size="18">Toma.</font>
+
+572
+01:17:20,320 --> 01:17:23,440
+<font face="Serif" size="18">Muy bien.
+¿Preparados para el sobresalto?</font>
+
+573
+01:17:24,820 --> 01:17:27,950
+<font face="Serif" size="18">Yo quitaría las manos de él.</font>
+
+574
+01:17:46,800 --> 01:17:49,920
+<font face="Serif" size="18">¡Oh, mi Dios!</font>
+
+575
+01:18:02,940 --> 01:18:06,060
+<font face="Serif" size="18">¡Espera, espera! ¡Hay más! ¡Espera!</font>
+
+576
+01:18:15,780 --> 01:18:18,450
+<font face="Serif" size="18">- Ahora. ¡De acuerdo, ahora!
+- Espera.</font>
+
+577
+01:18:18,450 --> 01:18:21,580
+<font face="Serif" size="18">¡Ahora, hazlo! ¡Hazlo!</font>
+
+578
+01:18:28,540 --> 01:18:31,130
+<font face="Serif" size="18">¡Bruce! Bruce, mírame.</font>
+
+579
+01:18:31,130 --> 01:18:34,250
+<font face="Serif" size="18">Quédate conmigo. El antídoto
+¡ahora! Sterns ¡hazlo ahora!</font>
+
+580
+01:18:37,090 --> 01:18:40,220
+<font face="Serif" size="18">Bruce, mírame. Mírame a los ojos.
+Por favor, mírame a los ojos.</font>
+
+581
+01:18:42,300 --> 01:18:45,430
+<font face="Serif" size="18">¡Tienes que estar bromeando!</font>
+
+582
+01:19:04,320 --> 01:19:05,610
+<font face="Serif" size="18">Bruce.</font>
+
+583
+01:19:05,610 --> 01:19:08,740
+<font face="Serif" size="18">Dios mío.</font>
+
+584
+01:19:18,370 --> 01:19:21,500
+<font face="Serif" size="18">¿Bruce? Bruce, ¿puedes oírme?</font>
+
+585
+01:19:25,420 --> 01:19:27,420
+<font face="Serif" size="18">¿Bruce?</font>
+
+586
+01:19:35,430 --> 01:19:38,560
+<font face="Serif" size="18">Estás bien, estás bien, estás bien.</font>
+
+587
+01:19:42,230 --> 01:19:43,770
+<font face="Serif" size="18">Lo hiciste.</font>
+
+588
+01:19:43,770 --> 01:19:46,520
+<font face="Serif" size="18">Está bien, esto es fantástico.</font>
+
+589
+01:19:46,520 --> 01:19:48,770
+<font face="Serif" size="18">Se acabó.</font>
+
+590
+01:19:48,770 --> 01:19:53,320
+<font face="Serif" size="18">Hola.</font>
+
+591
+01:19:59,660 --> 01:20:02,790
+<font face="Serif" size="18">¡Eso fue la cosa más extraordinaria
+que he visto en toda mi vida!</font>
+
+592
+01:20:05,700 --> 01:20:07,370
+<font face="Serif" size="18">De acuerdo ¿sabes una
+cosa? Detente, por favor.</font>
+
+593
+01:20:07,370 --> 01:20:09,830
+<font face="Serif" size="18">Necesitamos reconsiderar y hablar
+de lo que acaba de suceder aquí.</font>
+
+594
+01:20:09,830 --> 01:20:12,960
+<font face="Serif" size="18">Claro que sí, de acuerdo. El
+pulso gamma vino de la amígdala.</font>
+
+595
+01:20:13,710 --> 01:20:15,550
+<font face="Serif" size="18">- Creo que el Dr. Ross es el primer...
+- ¿Estás bien?</font>
+
+596
+01:20:15,550 --> 01:20:18,670
+<font face="Serif" size="18">...deja que las células absorban la
+energía temporalmente, y entonces las anula.</font>
+
+597
+01:20:18,880 --> 01:20:21,760
+<font face="Serif" size="18">¡Por eso no moriste por
+la radiación hace años!</font>
+
+598
+01:20:21,760 --> 01:20:24,550
+<font face="Serif" size="18">Ahora, quizá hayamos neutralizado
+permanentemente esas células,</font>
+
+599
+01:20:24,550 --> 01:20:26,560
+<font face="Serif" size="18">o quizá únicamente hayamos
+suprimido este hecho.</font>
+
+600
+01:20:26,560 --> 01:20:28,970
+<font face="Serif" size="18">Pero me inclino a creer lo
+último, pero es difícil saber</font>
+
+601
+01:20:28,970 --> 01:20:30,850
+<font face="Serif" size="18">porque ninguno de nuestros
+sujetos de ensayo ha sobrevivido.</font>
+
+602
+01:20:30,850 --> 01:20:32,560
+<font face="Serif" size="18">- ¡Claro, no obtuvieron el primitivo!
+- Espera, espera...</font>
+
+603
+01:20:32,560 --> 01:20:34,060
+<font face="Serif" size="18">- Espera, ¿qué acabas de decir?
+- Que no tuvieron</font>
+
+604
+01:20:34,060 --> 01:20:37,190
+<font face="Serif" size="18">- la mioestatina primitiva...
+- No, no, no. ¿Sujetos de ensayo?</font>
+
+605
+01:20:37,650 --> 01:20:40,110
+<font face="Serif" size="18">¿Qué sujetos de ensayo?</font>
+
+606
+01:20:40,110 --> 01:20:43,240
+<font face="Serif" size="18">Ven conmigo.</font>
+
+607
+01:20:58,250 --> 01:21:01,380
+<font face="Serif" size="18">- ¿Cuál es el nivel de actividad?
+- Tiradores apostados cubren el Sector Alfa.</font>
+
+608
+01:21:03,000 --> 01:21:04,500
+<font face="Serif" size="18">Comenzamos con ratas y ratones,</font>
+
+609
+01:21:04,500 --> 01:21:07,340
+<font face="Serif" size="18">pero los freímos, así que tuvimos
+que ir por algo más grande.</font>
+
+610
+01:21:07,340 --> 01:21:10,470
+<font face="Serif" size="18">Y aún no sabemos qué es más
+tóxico, si el gamma o tu sangre.</font>
+
+611
+01:21:10,550 --> 01:21:13,680
+<font face="Serif" size="18">- ¿Qué quiere decir, mi sangre?
+- Bruce, esto es todo tuyo.</font>
+
+612
+01:21:15,140 --> 01:21:16,730
+<font face="Serif" size="18">Tú no me enviaste mucho
+con lo que trabajar,</font>
+
+613
+01:21:16,730 --> 01:21:18,270
+<font face="Serif" size="18">así que tuve que
+concentrarlo y hacer más.</font>
+
+614
+01:21:19,220 --> 01:21:22,350
+<font face="Serif" size="18">¡Con un poco más de prueba y error,
+no hay fin para lo que podamos hacer!</font>
+
+615
+01:21:22,560 --> 01:21:25,690
+<font face="Serif" size="18">¡Esto es potencialmente olímpico!</font>
+
+616
+01:21:26,360 --> 01:21:29,480
+<font face="Serif" size="18">Esta tecnología gamma, tiene
+aplicaciones sin límites.</font>
+
+617
+01:21:29,940 --> 01:21:32,070
+<font face="Serif" size="18">Abriremos cientos de curas.</font>
+
+618
+01:21:32,070 --> 01:21:35,200
+<font face="Serif" size="18">¡Convertiremos a los humanos
+en resistentes a la enfermedad!</font>
+
+619
+01:21:49,370 --> 01:21:51,500
+<font face="Serif" size="18">No, no, tenemos que destruirlo.</font>
+
+620
+01:21:51,500 --> 01:21:53,500
+<font face="Serif" size="18">- Espera, ¿qué?
+- Todo.</font>
+
+621
+01:21:53,500 --> 01:21:54,960
+<font face="Serif" size="18">Esta noche... Vamos a incinerarlo.</font>
+
+622
+01:21:54,960 --> 01:21:57,300
+<font face="Serif" size="18">- ¿Esto es todo lo que hay?
+- Qué..</font>
+
+623
+01:21:57,300 --> 01:21:58,920
+<font face="Serif" size="18">¡Podríamos ganar el Nobel por esto!</font>
+
+624
+01:21:58,920 --> 01:22:01,220
+<font face="Serif" size="18">No entiendes el poder de esta cosa.</font>
+
+625
+01:22:01,220 --> 01:22:04,350
+<font face="Serif" size="18">Es demasiado peligros.
+No puede ser controlado.</font>
+
+626
+01:22:04,510 --> 01:22:06,100
+<font face="Serif" size="18">A su discreción, tirador.</font>
+
+627
+01:22:06,100 --> 01:22:07,640
+<font face="Serif" size="18">¡Tres de nosotros! ¡Este
+es el fuego de Prometeo!</font>
+
+628
+01:22:07,640 --> 01:22:08,770
+<font face="Serif" size="18">Esto es...</font>
+
+629
+01:22:08,770 --> 01:22:11,890
+<font face="Serif" size="18">No disparen.</font>
+
+630
+01:22:13,350 --> 01:22:16,480
+<font face="Serif" size="18">Blonsky está entrando.</font>
+
+631
+01:22:17,360 --> 01:22:20,480
+<font face="Serif" size="18">Blonsky, párate.
+¡Mi hija está ahí!</font>
+
+632
+01:22:22,820 --> 01:22:23,990
+<font face="Serif" size="18">Ahora tenemos el antídoto.</font>
+
+633
+01:22:23,990 --> 01:22:27,110
+<font face="Serif" size="18">¡No quieren el antídoto!
+¡Quieren hacerlo un arma!</font>
+
+634
+01:22:33,700 --> 01:22:35,910
+<font face="Serif" size="18">Y si los dejamos seguir,
+nunca volveremos atrás.</font>
+
+635
+01:22:35,910 --> 01:22:38,040
+<font face="Serif" size="18">No sabes lo potente que es esto.</font>
+
+636
+01:22:38,040 --> 01:22:40,130
+<font face="Serif" size="18">Odio al gobierno tanto como cualquiera,</font>
+
+637
+01:22:40,130 --> 01:22:43,250
+<font face="Serif" size="18">pero estás un poco paranoico ¿no crees?</font>
+
+638
+01:22:49,720 --> 01:22:52,840
+<font face="Serif" size="18">¡Bruce! ¡Bruce!</font>
+
+639
+01:22:52,930 --> 01:22:55,050
+<font face="Serif" size="18">Sal.</font>
+
+640
+01:22:57,430 --> 01:23:00,560
+<font face="Serif" size="18">¿Dónde está? Vamos, ¿dónde está?</font>
+
+641
+01:23:04,400 --> 01:23:07,520
+<font face="Serif" size="18">Enséñamelo.</font>
+
+642
+01:23:07,560 --> 01:23:09,020
+<font face="Serif" size="18">¡Blonsky!</font>
+
+643
+01:23:17,320 --> 01:23:19,910
+<font face="Serif" size="18">¡Señorita!</font>
+
+644
+01:23:19,910 --> 01:23:23,040
+<font face="Serif" size="18">Tome esto.</font>
+
+645
+01:23:24,910 --> 01:23:28,040
+<font face="Serif" size="18">Si me quitas esto, te meteré en
+un agujero el resto de tu vida.</font>
+
+646
+01:23:35,250 --> 01:23:38,380
+<font face="Serif" size="18">Betty.</font>
+
+647
+01:23:38,380 --> 01:23:41,470
+<font face="Serif" size="18">Nunca olvidaré lo que le has hecho.</font>
+
+648
+01:23:41,470 --> 01:23:42,890
+<font face="Serif" size="18">Es un fugitivo.</font>
+
+649
+01:23:42,890 --> 01:23:44,930
+<font face="Serif" size="18">Tú lo convertiste en fugitivo</font>
+
+650
+01:23:44,930 --> 01:23:48,060
+<font face="Serif" size="18">para cubrir tus fracasos
+y proteger tu carrera.</font>
+
+651
+01:23:49,220 --> 01:23:52,350
+<font face="Serif" size="18">Nunca te dirijas a mí de
+nuevo como si fuese tu hija.</font>
+
+652
+01:23:54,310 --> 01:23:57,440
+<font face="Serif" size="18">Sólo porque eres mi hija,
+no estás esposada también.</font>
+
+653
+01:24:02,740 --> 01:24:04,030
+<font face="Serif" size="18">¿Me estás diciendo que
+puedes hacer más como él?</font>
+
+654
+01:24:04,030 --> 01:24:07,160
+<font face="Serif" size="18">¡No! No aún. Clasifiqué unas cuantas piezas,
+pero no es que pueda volver a reunirlas</font>
+
+655
+01:24:08,870 --> 01:24:11,990
+<font face="Serif" size="18">en la misma persona,
+si eso es lo que preguntas.</font>
+
+656
+01:24:12,290 --> 01:24:15,410
+<font face="Serif" size="18">¡Fue un maldito accidente! ¡La
+intención era hacerlo mejor!</font>
+
+657
+01:24:16,250 --> 01:24:19,370
+<font face="Serif" size="18">Así que Banner, es el único...</font>
+
+658
+01:24:21,960 --> 01:24:25,090
+<font face="Serif" size="18">- Es una puta molesta.
+- ¿Por qué siempre estás siguiendo a la gente?</font>
+
+659
+01:24:28,800 --> 01:24:31,930
+<font face="Serif" size="18">¿Qué posibilidades puedo tener
+para merecer semejante agresión?</font>
+
+660
+01:24:33,970 --> 01:24:37,100
+<font face="Serif" size="18">No es lo que has hecho.
+Es lo que vas a hacer.</font>
+
+661
+01:24:37,640 --> 01:24:40,770
+<font face="Serif" size="18">Quiero que te apartes
+de Banner. Eso quiero.</font>
+
+662
+01:24:43,600 --> 01:24:46,730
+<font face="Serif" size="18">Parece como que ya hay un
+poquito en ti ¿no es así?</font>
+
+663
+01:24:48,980 --> 01:24:52,110
+<font face="Serif" size="18">Quiero más. Quieres ver en
+qué se convierte ¿verdad?</font>
+
+664
+01:24:53,320 --> 01:24:55,490
+<font face="Serif" size="18">Tengo.</font>
+
+665
+01:24:55,490 --> 01:24:57,860
+<font face="Serif" size="18">Y es hermoso.</font>
+
+666
+01:24:57,860 --> 01:24:59,320
+<font face="Serif" size="18">Como los dioses.</font>
+
+667
+01:24:59,320 --> 01:25:02,450
+<font face="Serif" size="18">Bueno, quiero eso.</font>
+
+668
+01:25:03,200 --> 01:25:06,160
+<font face="Serif" size="18">Lo necesito, hazme eso.</font>
+
+669
+01:25:06,160 --> 01:25:09,250
+<font face="Serif" size="18">No sé lo que tienes dentro.</font>
+
+670
+01:25:09,250 --> 01:25:11,460
+<font face="Serif" size="18">La mezcla podría ser</font>
+
+671
+01:25:11,460 --> 01:25:14,590
+<font face="Serif" size="18">una abominación.</font>
+
+672
+01:25:16,670 --> 01:25:19,800
+<font face="Serif" size="18">No dije que no lo quisiera.</font>
+
+673
+01:25:20,050 --> 01:25:23,180
+<font face="Serif" size="18">Sólo necesito el
+consentimiento informado.</font>
+
+674
+01:25:26,310 --> 01:25:29,430
+<font face="Serif" size="18">Y tienes que dármelo.</font>
+
+675
+01:26:09,220 --> 01:26:12,340
+<font face="Serif" size="18">Eso es lo que intentaba explicar.</font>
+
+676
+01:26:13,550 --> 01:26:16,680
+<font face="Serif" size="18">No sé lo que has estado
+metiéndote a ti mismo.</font>
+
+677
+01:26:18,560 --> 01:26:20,730
+<font face="Serif" size="18">Pero claramente funcionó.</font>
+
+678
+01:26:20,730 --> 01:26:23,850
+<font face="Serif" size="18">Permíteme imaginar que no entiendes
+ni una palabra de lo que digo.</font>
+
+679
+01:26:24,440 --> 01:26:27,560
+<font face="Serif" size="18">Pero si regresases a la mesa,</font>
+
+680
+01:26:29,360 --> 01:26:31,940
+<font face="Serif" size="18">puedo arreglarlo.</font>
+
+681
+01:26:46,750 --> 01:26:49,250
+<font face="Serif" size="18">¡Dispárale!</font>
+
+682
+01:26:49,250 --> 01:26:52,380
+<font face="Serif" size="18">¡No!</font>
+
+683
+01:26:59,920 --> 01:27:02,050
+<font face="Serif" size="18">Delta 4 al Líder.</font>
+
+684
+01:27:02,050 --> 01:27:03,890
+<font face="Serif" size="18">Han sacado a dos de nuestros
+chicos, ¡dos de nuestros chicos!</font>
+
+685
+01:27:03,890 --> 01:27:07,010
+<font face="Serif" size="18">¡Blonsky y el Mayor aún están dentro!</font>
+
+686
+01:27:09,470 --> 01:27:12,600
+<font face="Serif" size="18">¡Vamos! ¡Muévanse, muévanse, muévanse!</font>
+
+687
+01:27:19,730 --> 01:27:22,860
+<font face="Serif" size="18">¡Por aquí!</font>
+
+688
+01:27:23,110 --> 01:27:24,360
+<font face="Serif" size="18">¡Suéltala!</font>
+
+689
+01:27:24,360 --> 01:27:27,490
+<font face="Serif" size="18">¿Qué es esa cosa?
+¡Dispárenle!</font>
+
+690
+01:27:36,080 --> 01:27:39,210
+<font face="Serif" size="18">¡Bien, de acuerdo!... ¡Usted
+conduce! ¡Vamos, muévanse!</font>
+
+691
+01:27:39,960 --> 01:27:41,380
+<font face="Serif" size="18">¡Delta 4 a Líder! ¡Vamos,
+vamos, vamos, vamos!</font>
+
+692
+01:27:41,380 --> 01:27:43,840
+<font face="Serif" size="18">¡Algo grande ha ocurrido ahí!</font>
+
+693
+01:27:43,840 --> 01:27:46,050
+<font face="Serif" size="18">¡General, debería oír esto!</font>
+
+694
+01:27:46,050 --> 01:27:49,170
+<font face="Serif" size="18">¡Hulk está en la calle!
+¡Repito, Hulk está en la calle!</font>
+
+695
+01:27:51,550 --> 01:27:53,720
+<font face="Serif" size="18">Eso es imposible... Tiene que
+hablar por usted, jovencito.</font>
+
+696
+01:27:53,720 --> 01:27:55,890
+<font face="Serif" size="18">Tienen que organizarse...
+¿Cuál es su posición?</font>
+
+697
+01:27:55,890 --> 01:27:59,020
+<font face="Serif" size="18">¡Calle 121, dirigiéndose
+al norte en Broadway!</font>
+
+698
+01:27:59,100 --> 01:28:02,230
+<font face="Serif" size="18">Demos la vuelta.</font>
+
+699
+01:28:07,610 --> 01:28:10,730
+<font face="Serif" size="18">Vamos a regresar.
+¿Por qué vamos a regresar?</font>
+
+700
+01:28:10,900 --> 01:28:12,940
+<font face="Serif" size="18">¡Maldita sea! ¡Dame una vista de ahí!</font>
+
+701
+01:28:12,940 --> 01:28:16,070
+<font face="Serif" size="18">¡Sí Señor!</font>
+
+702
+01:28:16,240 --> 01:28:18,490
+<font face="Serif" size="18">¿Qué diablos fue eso?</font>
+
+703
+01:28:18,490 --> 01:28:21,620
+<font face="Serif" size="18">¡Vamos, vamos, vamos!</font>
+
+704
+01:28:43,680 --> 01:28:46,810
+<font face="Serif" size="18">¡No!</font>
+
+705
+01:29:01,190 --> 01:29:02,780
+<font face="Serif" size="18">¿Uno de los suyos?</font>
+
+706
+01:29:02,780 --> 01:29:05,900
+<font face="Serif" size="18">Dios mío, ¿qué ha hecho?</font>
+
+707
+01:29:08,200 --> 01:29:11,330
+<font face="Serif" size="18">¡Dispárenle, dispárenle!</font>
+
+708
+01:29:14,370 --> 01:29:16,870
+<font face="Serif" size="18">¿Cree que un rifle va a herirlo?</font>
+
+709
+01:29:16,870 --> 01:29:20,000
+<font face="Serif" size="18">¡Vamos!</font>
+
+710
+01:29:21,630 --> 01:29:23,290
+<font face="Serif" size="18">Dulzura.</font>
+
+711
+01:29:25,710 --> 01:29:28,840
+<font face="Serif" size="18">¡Booyah!</font>
+
+712
+01:29:44,940 --> 01:29:48,070
+<font face="Serif" size="18">¡Salga de ahí, soldado!</font>
+
+713
+01:29:49,610 --> 01:29:52,740
+<font face="Serif" size="18">¡Stacy!</font>
+
+714
+01:30:21,880 --> 01:30:25,010
+<font face="Serif" size="18">¡Dame una pelea de verdad!</font>
+
+715
+01:30:31,890 --> 01:30:35,020
+<font face="Serif" size="18">¿Señor?</font>
+
+716
+01:30:35,730 --> 01:30:38,400
+<font face="Serif" size="18">¿Señor?</font>
+
+717
+01:30:38,400 --> 01:30:41,530
+<font face="Serif" size="18">Dígales que traigan todo lo que
+tengan y se dirijan hacia Harlem.</font>
+
+718
+01:30:44,780 --> 01:30:47,910
+<font face="Serif" size="18">Eso tiene que ser para mí.
+Tienes que sacarme de aquí.</font>
+
+719
+01:30:48,570 --> 01:30:50,280
+<font face="Serif" size="18">¿Qué dices?</font>
+
+720
+01:30:50,280 --> 01:30:51,660
+<font face="Serif" size="18">¿Crees que no puedes controlarlo?</font>
+
+721
+01:30:51,660 --> 01:30:54,790
+<font face="Serif" size="18">No, no, no controlarlo, pero,
+no lo sé, quizá lo apunte.</font>
+
+722
+01:30:54,870 --> 01:30:57,870
+<font face="Serif" size="18">¿Y si no puedes?</font>
+
+723
+01:30:57,870 --> 01:31:00,130
+<font face="Serif" size="18">Nosotros hicimos esto.</font>
+
+724
+01:31:00,130 --> 01:31:02,460
+<font face="Serif" size="18">Todos nosotros.</font>
+
+725
+01:31:02,460 --> 01:31:05,590
+<font face="Serif" size="18">Por favor.</font>
+
+726
+01:31:08,630 --> 01:31:11,760
+<font face="Serif" size="18">- Colócanos cerca de él.
+- No, no. No, mantenos en lo alto.</font>
+
+727
+01:31:12,720 --> 01:31:15,850
+<font face="Serif" size="18">Abre la puerta de atrás.</font>
+
+728
+01:31:19,810 --> 01:31:22,940
+<font face="Serif" size="18">¡Bruce! ¡Bruce, para!
+¡Para! ¿Qué haces?</font>
+
+729
+01:31:24,770 --> 01:31:27,900
+<font face="Serif" size="18">¡Piénsalo! ¡Ni siquiera
+sabes si cambiarás!</font>
+
+730
+01:31:30,480 --> 01:31:33,610
+<font face="Serif" size="18">¡No tienes que hacer esto!
+¡Por favor, esto es una locura!</font>
+
+731
+01:31:33,780 --> 01:31:36,910
+<font face="Serif" size="18">Betty, tengo que intentarlo.</font>
+
+732
+01:31:37,700 --> 01:31:40,830
+<font face="Serif" size="18">Lo siento.</font>
+
+733
+01:32:01,680 --> 01:32:04,800
+<font face="Serif" size="18">¡Mierda!</font>
+
+734
+01:32:07,350 --> 01:32:10,480
+<font face="Serif" size="18">- ¡Métela ahí!
+- Venga, señorita.</font>
+
+735
+01:32:27,610 --> 01:32:30,740
+<font face="Serif" size="18">¡Aquí, Betty!</font>
+
+736
+01:32:48,720 --> 01:32:51,840
+<font face="Serif" size="18">¡Hulk!</font>
+
+737
+01:32:55,050 --> 01:32:58,180
+<font face="Serif" size="18">¡Sí!</font>
+
+738
+01:33:41,010 --> 01:33:43,220
+<font face="Serif" size="18">¡Vamos!</font>
+
+739
+01:34:14,500 --> 01:34:17,620
+<font face="Serif" size="18">¿Es todo lo que tienes?</font>
+
+740
+01:34:30,180 --> 01:34:33,050
+<font face="Serif" size="18">¡Utilice esa cosa, soldado!
+¡Ayúdelo un poco!</font>
+
+741
+01:34:33,050 --> 01:34:34,390
+<font face="Serif" size="18">¿A quién?</font>
+
+742
+01:34:34,390 --> 01:34:36,810
+<font face="Serif" size="18">¡Ayuda al verde, maldita sea!
+¿A quién pensabas?</font>
+
+743
+01:34:36,810 --> 01:34:39,930
+<font face="Serif" size="18">¡Corta al otro por la mitad!</font>
+
+744
+01:34:41,310 --> 01:34:44,440
+<font face="Serif" size="18">¡Ross!</font>
+
+745
+01:35:07,250 --> 01:35:10,380
+<font face="Serif" size="18">¡Sigue con él!</font>
+
+746
+01:35:37,190 --> 01:35:40,280
+<font face="Serif" size="18">¡Mira, tengo que colgar! ¡Espera!</font>
+
+747
+01:36:47,410 --> 01:36:48,870
+<font face="Serif" size="18">¿Papá?</font>
+
+748
+01:36:51,170 --> 01:36:54,300
+<font face="Serif" size="18">¿Estás herido? Déjame ayudarte.</font>
+
+749
+01:37:01,430 --> 01:37:04,550
+<font face="Serif" size="18">Estoy bien... Descubrí la solución.</font>
+
+750
+01:37:51,130 --> 01:37:54,260
+<font face="Serif" size="18">¡No mereces este poder!
+¡Ahora, mírala morir!</font>
+
+751
+01:38:48,520 --> 01:38:51,640
+<font face="Serif" size="18">¡Cuidado!</font>
+
+752
+01:39:21,000 --> 01:39:24,130
+<font face="Serif" size="18">¿General?</font>
+
+753
+01:39:28,510 --> 01:39:31,630
+<font face="Serif" size="18">¿Algún último deseo?</font>
+
+754
+01:39:33,890 --> 01:39:37,010
+<font face="Serif" size="18">¡Hulk destruye!</font>
+
+755
+01:40:24,850 --> 01:40:27,970
+<font face="Serif" size="18">¡Para!</font>
+
+756
+01:41:47,160 --> 01:41:50,290
+<font face="Serif" size="18">Está bien.</font>
+
+757
+01:41:58,630 --> 01:42:01,760
+<font face="Serif" size="18">Betty.</font>
+
+758
+01:44:16,190 --> 01:44:21,210
+<font face="Serif" size="18">Días sin incidentes</font>
+
+759
+01:44:21,210 --> 01:44:22,980
+<font face="Serif" size="18">Días sin incidentes</font>
+
+760
+01:44:28,300 --> 01:44:31,430
+<font face="Serif" size="18">Recargar.</font>
+
+761
+01:44:37,180 --> 01:44:40,310
+<font face="Serif" size="18">Recargar.</font>
+
+762
+01:44:54,400 --> 01:44:57,530
+<font face="Serif" size="18">El olor de cerveza
+rancia y de derrota.</font>
+
+763
+01:44:57,660 --> 01:44:59,490
+<font face="Serif" size="18">Ya sabe, odio decirlo...
+"Se lo dije", General.</font>
+
+764
+01:44:59,490 --> 01:45:02,620
+<font face="Serif" size="18">Pero el programa del Súpersoldado,
+se puso en hielo por un motivo.</font>
+
+765
+01:45:03,990 --> 01:45:07,080
+<font face="Serif" size="18">Siempre sentimos que el
+hardware era más confiable.</font>
+
+766
+01:45:07,080 --> 01:45:10,210
+<font face="Serif" size="18">- Stark.
+- General.</font>
+
+767
+01:45:11,710 --> 01:45:14,840
+<font face="Serif" size="18">Siempre llevando esos
+trajes tan bonitos.</font>
+
+768
+01:45:15,170 --> 01:45:17,420
+<font face="Serif" size="18">Touche.</font>
+
+769
+01:45:17,420 --> 01:45:19,470
+<font face="Serif" size="18">He oído que tuvio un
+problema extraño.</font>
+
+770
+01:45:19,470 --> 01:45:20,550
+<font face="Serif" size="18">Deberíamos hablar.</font>
+
+771
+01:45:21,220 --> 01:45:24,350
+<font face="Serif" size="18">Debería escuchar.</font>
+
+772
+01:45:25,390 --> 01:45:28,520
+<font face="Serif" size="18">¿Qué ocurre si le digo que
+estamos montando un equipo?</font>
+
+773
+01:45:28,520 --> 01:45:30,170
+<font face="Serif" size="18">¿Quienes somos?</font>
+
+774
+01:45:30,170 --> 01:52:20,992
+<font face="Serif" size="18">by Ph@lcom</font>
+

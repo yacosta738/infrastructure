@@ -1,0 +1,658 @@
+[2022-10-20 21:14:45.678 -03:00] [INF] [4] Main: Jellyfin version: "10.8.5"
+[2022-10-20 21:14:45.749 -03:00] [INF] [4] Main: Environment Variables: ["[JELLYFIN_PublishedServerUrl, 192.168.0.5]", "[JELLYFIN_DATA_DIR, /config/data]", "[JELLYFIN_CONFIG_DIR, /config]", "[JELLYFIN_LOG_DIR, /config/log]", "[JELLYFIN_CACHE_DIR, /config/cache]"]
+[2022-10-20 21:14:45.756 -03:00] [INF] [4] Main: Arguments: ["/usr/lib/jellyfin/bin/jellyfin.dll", "--ffmpeg=/usr/lib/jellyfin-ffmpeg/ffmpeg", "--webdir=/usr/share/jellyfin/web"]
+[2022-10-20 21:14:45.758 -03:00] [INF] [4] Main: Operating system: "Linux"
+[2022-10-20 21:14:45.758 -03:00] [INF] [4] Main: Architecture: X64
+[2022-10-20 21:14:45.759 -03:00] [INF] [4] Main: 64-Bit Process: True
+[2022-10-20 21:14:45.759 -03:00] [INF] [4] Main: User Interactive: True
+[2022-10-20 21:14:45.759 -03:00] [INF] [4] Main: Processor count: 8
+[2022-10-20 21:14:45.759 -03:00] [INF] [4] Main: Program data path: "/config/data"
+[2022-10-20 21:14:45.760 -03:00] [INF] [4] Main: Web resources path: "/usr/share/jellyfin/web"
+[2022-10-20 21:14:45.760 -03:00] [INF] [4] Main: Application directory: "/usr/lib/jellyfin/bin/"
+[2022-10-20 21:14:45.812 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Marking following migrations as applied because this is a fresh install: ["CreateNetworkConfiguration"]
+[2022-10-20 21:14:46.080 -03:00] [INF] [4] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:14:46.105 -03:00] [INF] [4] Emby.Server.Implementations.ApplicationHost: Loading assemblies
+[2022-10-20 21:14:46.340 -03:00] [INF] [4] Jellyfin.Networking.Manager.NetworkManager: Defined LAN addresses : "[10.0.0.0/8,172.16.0.0/12,192.168.0.0/16]"
+[2022-10-20 21:14:46.340 -03:00] [INF] [4] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions : "[]"
+[2022-10-20 21:14:46.342 -03:00] [INF] [4] Jellyfin.Networking.Manager.NetworkManager: Using LAN addresses: "[10.0.0.0/8,172.16.0.0/12,192.168.0.0/16]"
+[2022-10-20 21:14:46.360 -03:00] [INF] [4] Jellyfin.Networking.Manager.NetworkManager: Using bind addresses: "[]"
+[2022-10-20 21:14:46.361 -03:00] [INF] [4] Jellyfin.Networking.Manager.NetworkManager: Using bind exclusions: "[]"
+[2022-10-20 21:14:48.738 -03:00] [INF] [4] Jellyfin.Server.Implementations.JellyfinDbProvider: There are pending EFCore migrations in the database. Applying... (This may take a while, do not stop Jellyfin)
+[2022-10-20 21:14:49.525 -03:00] [INF] [4] Jellyfin.Server.Implementations.JellyfinDbProvider: EFCore migrations applied successfully
+[2022-10-20 21:14:50.362 -03:00] [INF] [4] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2022-10-20 21:14:50.363 -03:00] [INF] [4] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:14:50.370 -03:00] [INF] [4] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "TMDb" "10.8.5.0"
+[2022-10-20 21:14:50.372 -03:00] [INF] [4] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "Studio Images" "10.8.5.0"
+[2022-10-20 21:14:50.373 -03:00] [INF] [4] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "OMDb" "10.8.5.0"
+[2022-10-20 21:14:50.373 -03:00] [INF] [4] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "MusicBrainz" "10.8.5.0"
+[2022-10-20 21:14:50.373 -03:00] [INF] [4] Emby.Server.Implementations.Plugins.PluginManager: Loaded plugin: "AudioDB" "10.8.5.0"
+[2022-10-20 21:14:50.446 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Marking following migrations as applied because this is a fresh install: ["DisableTranscodingThrottling", "CreateLoggingConfigHeirarchy", "MigrateActivityLogDatabase", "RemoveDuplicateExtras", "MigrateUserDatabase", "MigrateDisplayPreferencesDatabase", "RemoveDownloadImagesInAdvance", "MigrateAuthenticationDatabase"]
+[2022-10-20 21:14:50.447 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Applying migration '"AddDefaultPluginRepository"'
+[2022-10-20 21:14:50.447 -03:00] [INF] [4] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2022-10-20 21:14:50.448 -03:00] [INF] [4] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:14:50.448 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Migration '"AddDefaultPluginRepository"' applied successfully
+[2022-10-20 21:14:50.461 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Applying migration '"ReaddDefaultPluginRepository"'
+[2022-10-20 21:14:50.461 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Migration '"ReaddDefaultPluginRepository"' applied successfully
+[2022-10-20 21:14:50.462 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Applying migration '"AddPeopleQueryIndex"'
+[2022-10-20 21:14:50.462 -03:00] [INF] [4] Jellyfin.Server.Migrations.Routines.AddPeopleQueryIndex: Creating index idx_TypedBaseItemsUserDataKeyType
+[2022-10-20 21:14:50.477 -03:00] [INF] [4] Jellyfin.Server.Migrations.Routines.AddPeopleQueryIndex: Creating index idx_PeopleNameListOrder
+[2022-10-20 21:14:50.493 -03:00] [INF] [4] Jellyfin.Server.Migrations.MigrationRunner: Migration '"AddPeopleQueryIndex"' applied successfully
+[2022-10-20 21:14:50.507 -03:00] [INF] [4] Main: Kestrel listening on "Any IP4 Address"
+[2022-10-20 21:14:50.623 -03:00] [WRN] [4] Microsoft.AspNetCore.DataProtection.Repositories.EphemeralXmlRepository: Using an in-memory repository. Keys will not be persisted to storage.
+[2022-10-20 21:14:50.623 -03:00] [WRN] [4] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+[2022-10-20 21:14:51.032 -03:00] [WRN] [4] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {9b4b760d-de63-4a9a-8d15-92b48bc64144} may be persisted to storage in unencrypted form.
+[2022-10-20 21:14:51.071 -03:00] [INF] [4] Emby.Server.Implementations.ApplicationHost: Running startup tasks
+[2022-10-20 21:14:51.117 -03:00] [INF] [4] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2022-10-21 02:00:00.000 -03:00, which is 04:45:08.8823510 from now.
+[2022-10-20 21:14:51.262 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Found ffmpeg version "5.1.2"
+[2022-10-20 21:14:51.340 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "decoders": ["libdav1d", "av1", "av1_cuvid", "av1_qsv", "h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "mpeg2_cuvid", "mpeg4", "mpeg4_cuvid", "msmpeg4", "vc1_qsv", "vc1_cuvid", "vp8", "libvpx", "vp8_cuvid", "vp8_qsv", "vp9", "libvpx-vp9", "vp9_cuvid", "vp9_qsv", "aac", "ac3", "flac", "mp3"]
+[2022-10-20 21:14:51.362 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "h264_v4l2m2m", "h264_vaapi", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "hevc_vaapi", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "libfdk_aac", "ac3", "flac", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2022-10-20 21:14:51.384 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available filters: ["deinterlace_qsv", "deinterlace_vaapi", "hwupload_cuda", "hwupload_vaapi", "overlay_opencl", "overlay_qsv", "overlay_vaapi", "overlay_cuda", "procamp_vaapi", "scale_cuda", "scale_opencl", "scale_qsv", "scale_vaapi", "tonemap_cuda", "tonemap_opencl", "tonemap_vaapi", "vpp_qsv", "yadif_cuda", "zscale", "alphasrc"]
+[2022-10-20 21:14:51.498 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Available hwaccel types: ["cuda", "vaapi", "qsv", "drm", "opencl", "vulkan"]
+[2022-10-20 21:14:51.727 -03:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: FFmpeg: "/usr/lib/jellyfin-ffmpeg/ffmpeg"
+[2022-10-20 21:14:51.730 -03:00] [INF] [4] Emby.Server.Implementations.ApplicationHost: ServerId: "bff564f597334064b6cb891f6b31141a"
+[2022-10-20 21:14:51.969 -03:00] [INF] [16] Emby.Server.Implementations.ApplicationHost: Executed all pre-startup entry points in 0:00:00.2182393
+[2022-10-20 21:14:51.969 -03:00] [INF] [16] Emby.Server.Implementations.ApplicationHost: Core startup complete
+[2022-10-20 21:14:52.337 -03:00] [INF] [16] Emby.Server.Implementations.ApplicationHost: Executed all post-startup entry points in 0:00:00.3681439
+[2022-10-20 21:14:52.338 -03:00] [INF] [16] Main: Startup complete 0:00:07.1783413
+[2022-10-20 21:14:54.123 -03:00] [INF] [16] Emby.Server.Implementations.ScheduledTasks.TaskManager: "StartupTrigger" fired for task: "Update Plugins"
+[2022-10-20 21:14:54.124 -03:00] [INF] [16] Emby.Server.Implementations.ScheduledTasks.TaskManager: Queuing task "PluginUpdateTask"
+[2022-10-20 21:14:54.128 -03:00] [INF] [6] Emby.Server.Implementations.ScheduledTasks.TaskManager: Executing "Update Plugins"
+[2022-10-20 21:14:57.349 -03:00] [INF] [21] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 3 seconds
+[2022-10-20 21:14:57.382 -03:00] [INF] [21] Emby.Server.Implementations.ScheduledTasks.TaskManager: ExecuteQueuedTasks
+[2022-10-20 21:15:14.271 -03:00] [WRN] [6] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/System/Info/Public" to "172.18.0.1" in 0:00:00.5958695 with Status Code 200
+[2022-10-20 21:15:26.556 -03:00] [INF] [24] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2022-10-20 21:15:26.557 -03:00] [INF] [24] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:15:26.560 -03:00] [INF] [22] Emby.Server.Implementations.EntryPoints.ExternalPortForwarding: Stopping NAT discovery
+[2022-10-20 21:15:28.043 -03:00] [WRN] [6] Jellyfin.Server.Implementations.Users.UserManager: No users, creating one with username "abc"
+[2022-10-20 21:15:29.312 -03:00] [WRN] [6] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/Startup/User" to "172.18.0.1" in 0:00:01.2919392 with Status Code 200
+[2022-10-20 21:17:53.670 -03:00] [WRN] [35] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/Environment/DirectoryContents?includeDirectories=true&path=%2Fdata%2Fmovies" to "172.18.0.1" in 0:00:05.5620957 with Status Code 200
+[2022-10-20 21:18:40.401 -03:00] [WRN] [36] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/Library/VirtualFolders?collectionType=movies&refreshLibrary=false&name=Movies" to "172.18.0.1" in 0:00:01.1214953 with Status Code 204
+[2022-10-20 21:19:05.193 -03:00] [INF] [45] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2022-10-20 21:19:05.194 -03:00] [INF] [45] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:19:09.088 -03:00] [INF] [42] Jellyfin.Networking.Manager.NetworkManager: Defined LAN addresses : "[10.0.0.0/8,172.16.0.0/12,192.168.0.0/16]"
+[2022-10-20 21:19:09.088 -03:00] [INF] [42] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions : "[]"
+[2022-10-20 21:19:09.088 -03:00] [INF] [42] Jellyfin.Networking.Manager.NetworkManager: Using LAN addresses: "[10.0.0.0/8,172.16.0.0/12,192.168.0.0/16]"
+[2022-10-20 21:19:09.088 -03:00] [INF] [42] Jellyfin.Networking.Manager.NetworkManager: Using bind addresses: "[]"
+[2022-10-20 21:19:09.088 -03:00] [INF] [42] Jellyfin.Networking.Manager.NetworkManager: Using bind exclusions: "[]"
+[2022-10-20 21:19:10.435 -03:00] [INF] [42] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2022-10-20 21:19:10.436 -03:00] [INF] [42] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/config/cache"
+[2022-10-20 21:19:10.439 -03:00] [INF] [45] Emby.Server.Implementations.ScheduledTasks.TaskManager: Queuing task "RefreshMediaLibraryTask"
+[2022-10-20 21:19:10.439 -03:00] [INF] [45] Emby.Server.Implementations.EntryPoints.ExternalPortForwarding: Stopping NAT discovery
+[2022-10-20 21:19:10.439 -03:00] [INF] [45] Emby.Server.Implementations.EntryPoints.ExternalPortForwarding: Starting NAT discovery
+[2022-10-20 21:19:10.440 -03:00] [INF] [36] Emby.Server.Implementations.ScheduledTasks.TaskManager: Executing "Scan Media Library"
+[2022-10-20 21:19:10.448 -03:00] [INF] [36] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2022-10-20 21:19:15.517 -03:00] [INF] [43] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "acosta" has succeeded.
+[2022-10-20 21:19:15.518 -03:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "acosta": 0/0
+[2022-10-20 21:19:15.568 -03:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user eafa54e9-acf2-481a-bb40-2a3fd34340c7
+[2022-10-20 21:19:15.708 -03:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:19:15.773 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"AccessSchedule"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"ActivityLog"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"CustomItemDisplayPreferences"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"DisplayPreferences"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"HomeSection"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"ImageInfo"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"ItemDisplayPreferences"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"Permission"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"Preference"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"ApiKey"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"Device"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"DeviceOptions"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:15.774 -03:00] [WRN] [25] Microsoft.EntityFrameworkCore.Model.Validation: The entity type '"User"' is configured to use schema '"jellyfin"', but SQLite does not support schemas. This configuration will be ignored by the SQLite provider.
+[2022-10-20 21:19:50.769 -03:00] [ERR] [29] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/A/Ashley Greene/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:52.427 -03:00] [INF] [36] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Killing ffmpeg process
+[2022-10-20 21:19:52.429 -03:00] [ERR] [36] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: ffmpeg image extraction failed for "file:\"/data/movies/EXTENDED/50 Shades of Grey/2017 - Fifty Shades Freed/Fifty Shades Freed (2018).mkv\""
+[2022-10-20 21:19:52.430 -03:00] [ERR] [36] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: I-frame image extraction failed, will attempt standard way. Input: "file:\"/data/movies/EXTENDED/50 Shades of Grey/2017 - Fifty Shades Freed/Fifty Shades Freed (2018).mkv\""
+MediaBrowser.Common.FfmpegException: ffmpeg image extraction failed for file:"/data/movies/EXTENDED/50 Shades of Grey/2017 - Fifty Shades Freed/Fifty Shades Freed (2018).mkv"
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImageInternal(String inputPath, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, Nullable`1 threedFormat, Nullable`1 offset, Boolean useIFrame, Nullable`1 targetFormat, CancellationToken cancellationToken)
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImage(String inputFile, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, MediaSourceInfo mediaSource, Boolean isAudio, Nullable`1 threedFormat, Nullable`1 offset, Nullable`1 targetFormat, CancellationToken cancellationToken)
+[2022-10-20 21:19:52.882 -03:00] [ERR] [4] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/S/Stephenie Meyer/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:52.888 -03:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/S/Stephenie Meyer/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:55.476 -03:00] [ERR] [35] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/B/Brian Grazer/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:55.690 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/D/David Koepp/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:57.761 -03:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/J/Jennifer Ehle/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:57.993 -03:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/E/Eloise Mumford/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:58.763 -03:00] [ERR] [31] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/E/Eric Johnson/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:59.248 -03:00] [ERR] [41] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/M/Max Martini/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:19:59.860 -03:00] [ERR] [4] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/R/Rachel Skarsten/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:00.145 -03:00] [ERR] [44] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/J/James Foley/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:12.677 -03:00] [ERR] [30] MediaBrowser.Providers.Manager.ProviderManager: IOException saving to "/config/data/metadata/People/R/Rupert Grint/folder.jpg". Will retry saving to "/config/data/metadata/library/77/7795b81c57dafa5be82142e55af398fd/folder.jpg"
+System.IO.IOException: The process cannot access the file '/config/data/metadata/People/R/Rupert Grint/folder.jpg' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileStreamOptions options)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, String retryPath, CancellationToken cancellationToken)
+[2022-10-20 21:20:13.654 -03:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/A/Alan Rickman/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:13.869 -03:00] [ERR] [36] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/J/Jason Isaacs/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:14.009 -03:00] [ERR] [29] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/F/Fiona Shaw/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:14.948 -03:00] [ERR] [43] MediaBrowser.Providers.Manager.ProviderManager: IOException saving to "/config/data/metadata/People/D/David Yates/folder.jpg". Will retry saving to "/config/data/metadata/library/53/53699a1695ee044a0b02b91e3884e287/folder.jpg"
+System.IO.IOException: The process cannot access the file '/config/data/metadata/People/D/David Yates/folder.jpg' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Init(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileStreamOptions options)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, CancellationToken cancellationToken)
+   at MediaBrowser.Providers.Manager.ImageSaver.SaveImageToLocation(Stream source, String path, String retryPath, CancellationToken cancellationToken)
+[2022-10-20 21:20:15.251 -03:00] [ERR] [32] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/D/David Barron/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:15.292 -03:00] [ERR] [32] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/D/David Barron/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:15.318 -03:00] [ERR] [44] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/D/David Barron/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:15.662 -03:00] [ERR] [4] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/L/Lionel Wigram/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:18.936 -03:00] [ERR] [44] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/J/Jason Flemyng/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:19.477 -03:00] [ERR] [44] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/C/Christopher Fulford/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:19.890 -03:00] [ERR] [36] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/R/Robert Hands/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:20.111 -03:00] [ERR] [36] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/M/Mel Gibson/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:20.328 -03:00] [ERR] [25] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/B/Brad Anderson/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:20.783 -03:00] [ERR] [29] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/M/Mark Amin/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:24.275 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/L/Laurie MacDonald/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:28.959 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/S/Sienna Guillory/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:29.234 -03:00] [ERR] [42] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/O/Oded Fehr/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:31.713 -03:00] [ERR] [44] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/P/Paul W. S. Anderson/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:32.031 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/B/Bernd Eichinger/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:32.189 -03:00] [INF] [41] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Killing ffmpeg process
+[2022-10-20 21:20:32.190 -03:00] [ERR] [41] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: ffmpeg image extraction failed for "file:\"/data/movies/EXTENDED/Now you see me/2016 - Now You See Me 2/Now You See Me 2 [2016].mkv\""
+[2022-10-20 21:20:32.190 -03:00] [ERR] [41] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: I-frame image extraction failed, will attempt standard way. Input: "file:\"/data/movies/EXTENDED/Now you see me/2016 - Now You See Me 2/Now You See Me 2 [2016].mkv\""
+MediaBrowser.Common.FfmpegException: ffmpeg image extraction failed for file:"/data/movies/EXTENDED/Now you see me/2016 - Now You See Me 2/Now You See Me 2 [2016].mkv"
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImageInternal(String inputPath, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, Nullable`1 threedFormat, Nullable`1 offset, Boolean useIFrame, Nullable`1 targetFormat, CancellationToken cancellationToken)
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImage(String inputFile, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, MediaSourceInfo mediaSource, Boolean isAudio, Nullable`1 threedFormat, Nullable`1 offset, Nullable`1 targetFormat, CancellationToken cancellationToken)
+[2022-10-20 21:20:32.301 -03:00] [ERR] [41] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/S/Samuel Hadida/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:32.311 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/S/Samuel Hadida/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:43.759 -03:00] [ERR] [38] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/W/Woody Harrelson/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:44.846 -03:00] [ERR] [4] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/D/Donald Sutherland/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:45.157 -03:00] [ERR] [27] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/T/Toby Emmerich/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:49.211 -03:00] [ERR] [30] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/L/Laurence Fishburne/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:49.680 -03:00] [ERR] [35] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/G/Gloria Foster/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:50.129 -03:00] [ERR] [27] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/M/Monica Bellucci/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:50.735 -03:00] [ERR] [35] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/A/Anthony Zerbe/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:51.488 -03:00] [ERR] [35] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/K/Kate Beahan/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:51.492 -03:00] [ERR] [15] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/J/Joel Silver/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:58.513 -03:00] [ERR] [29] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/M/Michael J. Fox/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:20:59.085 -03:00] [INF] [35] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Killing ffmpeg process
+[2022-10-20 21:20:59.085 -03:00] [ERR] [35] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: ffmpeg image extraction failed for "file:\"/data/movies/EXTENDED/Underworld/2016_Underworld V/Underworld - Blood Wars [1080p][2016].mkv\""
+[2022-10-20 21:20:59.086 -03:00] [ERR] [35] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: I-frame image extraction failed, will attempt standard way. Input: "file:\"/data/movies/EXTENDED/Underworld/2016_Underworld V/Underworld - Blood Wars [1080p][2016].mkv\""
+MediaBrowser.Common.FfmpegException: ffmpeg image extraction failed for file:"/data/movies/EXTENDED/Underworld/2016_Underworld V/Underworld - Blood Wars [1080p][2016].mkv"
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImageInternal(String inputPath, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, Nullable`1 threedFormat, Nullable`1 offset, Boolean useIFrame, Nullable`1 targetFormat, CancellationToken cancellationToken)
+   at MediaBrowser.MediaEncoding.Encoder.MediaEncoder.ExtractImage(String inputFile, String container, MediaStream videoStream, Nullable`1 imageStreamIndex, MediaSourceInfo mediaSource, Boolean isAudio, Nullable`1 threedFormat, Nullable`1 offset, Nullable`1 targetFormat, CancellationToken cancellationToken)
+[2022-10-20 21:21:02.045 -03:00] [ERR] [25] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/G/Gwyneth Paltrow/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:21:05.080 -03:00] [ERR] [11] Emby.Server.Implementations.Library.LibraryManager: Cannot compute blurhash for "/config/data/metadata/People/V/Victoria Alonso/folder.jpg"
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlurHashSharp.SkiaSharp.BlurHashEncoder.Encode(Int32 xComponent, Int32 yComponent, String filename, Int32 maxWidth, Int32 maxHeight)
+   at Jellyfin.Drawing.Skia.SkiaEncoder.GetImageBlurHash(Int32 xComp, Int32 yComp, String path)
+   at Emby.Drawing.ImageProcessor.GetImageBlurHash(String path, ImageDimensions imageDimensions)
+   at Emby.Server.Implementations.Library.LibraryManager.UpdateImagesAsync(BaseItem item, Boolean forceUpdate)
+[2022-10-20 21:21:44.128 -03:00] [INF] [35] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/02d94f8300f043d1b3357096c478c67c.png"
+[2022-10-20 21:21:44.333 -03:00] [INF] [35] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/02d94f8300f043d1b3357096c478c67c.png"
+[2022-10-20 21:21:44.385 -03:00] [INF] [25] Emby.Server.Implementations.ScheduledTasks.TaskManager: Attempting to cancel Scheduled Task "Scan Media Library"
+[2022-10-20 21:21:44.385 -03:00] [INF] [25] Emby.Server.Implementations.ScheduledTasks.TaskManager: Queuing task "RefreshMediaLibraryTask"
+[2022-10-20 21:21:45.046 -03:00] [INF] [25] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/11af5a7718854fd083063a43a27504bb.png"
+[2022-10-20 21:21:45.457 -03:00] [INF] [25] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/11af5a7718854fd083063a43a27504bb.png"
+[2022-10-20 21:21:45.460 -03:00] [INF] [25] Emby.Server.Implementations.Library.LibraryManager: Post-scan task cancelled: "GenresPostScanTask"
+[2022-10-20 21:21:45.461 -03:00] [INF] [25] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Cancelled after 2 minute(s) and 35 seconds
+[2022-10-20 21:21:45.462 -03:00] [INF] [25] Emby.Server.Implementations.ScheduledTasks.TaskManager: ExecuteQueuedTasks
+[2022-10-20 21:21:45.463 -03:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: Executing "Scan Media Library"
+[2022-10-20 21:21:45.505 -03:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies/COLLECTIONS x ACTORES"
+[2022-10-20 21:21:45.505 -03:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies/Cubanas"
+[2022-10-20 21:21:45.505 -03:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies/EXTENDED"
+[2022-10-20 21:21:45.505 -03:00] [INF] [38] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2022-10-20 21:21:45.870 -03:00] [INF] [35] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/Cubanas"
+[2022-10-20 21:21:45.939 -03:00] [INF] [43] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/COLLECTIONS x ACTORES"
+[2022-10-20 21:21:45.977 -03:00] [INF] [29] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/EXTENDED"
+[2022-10-20 21:21:46.012 -03:00] [INF] [32] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/4380d58050c94384ab48c4d4188ef3a4.png"
+[2022-10-20 21:21:46.441 -03:00] [INF] [32] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/4380d58050c94384ab48c4d4188ef3a4.png"
+[2022-10-20 21:21:52.347 -03:00] [INF] [38] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/b5c7517bff12456ea7591c1f1a7fe88b.png"
+[2022-10-20 21:21:53.057 -03:00] [INF] [38] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/b5c7517bff12456ea7591c1f1a7fe88b.png"
+[2022-10-20 21:21:53.143 -03:00] [INF] [41] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/fc1e092523cc4d12a8a6f6113effe7ac.png"
+[2022-10-20 21:21:53.324 -03:00] [INF] [41] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/fc1e092523cc4d12a8a6f6113effe7ac.png"
+[2022-10-20 21:21:53.397 -03:00] [INF] [41] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/4ec9887df77746908207b82f43aa9c9b.png"
+[2022-10-20 21:21:53.441 -03:00] [INF] [35] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "acosta". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2022-10-20 21:21:53.489 -03:00] [INF] [35] Jellyfin.Api.Helpers.MediaInfoHelper: StreamBuilder.BuildVideoItem( Profile="Anonymous Profile", Path="/data/movies/EXTENDED/Universo Cinematográfico de Marvel/Fase 1/02-The Incredible Hulk (2008)/The.Incredible.Hulk.2008.bluray-latino-e-ingles-subt.mp4", AudioStreamIndex=null, SubtitleStreamIndex=null ) => ( PlayMethod=DirectPlay, TranscodeReason=0 ) "media:/videos/30dd38da-c062-d461-b86f-a103818e8af2/stream.mp4?MediaSourceId=30dd38dac062d461b86fa103818e8af2&Static=true&VideoCodec=h264&AudioCodec=aac&AudioStreamIndex=1&api_key=<token>&Tag=a836960a7770683831c556c7b3c863d3"
+[2022-10-20 21:21:53.698 -03:00] [INF] [41] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/4ec9887df77746908207b82f43aa9c9b.png"
+[2022-10-20 21:21:53.784 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/2de0db5c9ba24af1bde043627debd718.png"
+[2022-10-20 21:21:53.980 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/2de0db5c9ba24af1bde043627debd718.png"
+[2022-10-20 21:21:54.048 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/5454e3487b8a4544b50ecf20f929e8a9.png"
+[2022-10-20 21:21:54.191 -03:00] [INF] [37] MediaBrowser.MediaEncoding.Subtitles.SubtitleEncoder: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-i file:\"/data/movies/EXTENDED/Universo Cinematográfico de Marvel/Fase 1/02-The Incredible Hulk (2008)/The.Incredible.Hulk.2008.bluray-latino-e-ingles-subt.mp4\" -copyts -map 0:3 -an -vn -c:s srt \"/config/data/data/subtitles/5/5e89860a-18f5-9732-d415-aa6a25a0c44c.srt\""
+[2022-10-20 21:21:54.411 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/5454e3487b8a4544b50ecf20f929e8a9.png"
+[2022-10-20 21:21:54.485 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/f5b65a6800584af4adaac552cbf33aa4.png"
+[2022-10-20 21:21:54.764 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/f5b65a6800584af4adaac552cbf33aa4.png"
+[2022-10-20 21:21:54.832 -03:00] [INF] [34] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/ad93d8ed8fb743f289c65761c63fbf4f.png"
+[2022-10-20 21:21:55.078 -03:00] [INF] [34] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/ad93d8ed8fb743f289c65761c63fbf4f.png"
+[2022-10-20 21:21:55.148 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/4bf4e92cd83f4e8aaa43ff43e969321f.png"
+[2022-10-20 21:21:55.405 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/4bf4e92cd83f4e8aaa43ff43e969321f.png"
+[2022-10-20 21:21:55.473 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/579f11762edb4e23b1e34156704c5702.png"
+[2022-10-20 21:21:55.628 -03:00] [INF] [42] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/579f11762edb4e23b1e34156704c5702.png"
+[2022-10-20 21:21:55.628 -03:00] [INF] [34] MediaBrowser.MediaEncoding.Subtitles.SubtitleEncoder: ffmpeg subtitle extraction completed for "file:\"/data/movies/EXTENDED/Universo Cinematográfico de Marvel/Fase 1/02-The Incredible Hulk (2008)/The.Incredible.Hulk.2008.bluray-latino-e-ingles-subt.mp4\"" to "/config/data/data/subtitles/5/5e89860a-18f5-9732-d415-aa6a25a0c44c.srt"
+[2022-10-20 21:21:55.669 -03:00] [WRN] [34] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/Videos/30dd38da-c062-d461-b86f-a103818e8af2/30dd38dac062d461b86fa103818e8af2/Subtitles/3/0/Stream.js?api_key=f7a0cfa296d44c24bb4836bb6309d928" to "172.18.0.1" in 0:00:01.5007897 with Status Code 200
+[2022-10-20 21:21:55.691 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/2179f8f724ec49bbade02d6f49c45988.png"
+[2022-10-20 21:21:56.046 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/2179f8f724ec49bbade02d6f49c45988.png"
+[2022-10-20 21:21:56.119 -03:00] [INF] [25] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/c3d32d72ec6a4af2baf440c6a53f81b5.png"
+[2022-10-20 21:21:56.266 -03:00] [INF] [25] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/c3d32d72ec6a4af2baf440c6a53f81b5.png"
+[2022-10-20 21:21:56.339 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/a17434b213be4682b5640a08f4c26d30.png"
+[2022-10-20 21:21:56.740 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/a17434b213be4682b5640a08f4c26d30.png"
+[2022-10-20 21:21:56.811 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/81369a9517b84ef2a50fe7fdac86d5bc.png"
+[2022-10-20 21:21:57.118 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/81369a9517b84ef2a50fe7fdac86d5bc.png"
+[2022-10-20 21:21:57.187 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/272bb40fbec94e7f9cfcc9e6b5d2c30b.png"
+[2022-10-20 21:21:57.555 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/272bb40fbec94e7f9cfcc9e6b5d2c30b.png"
+[2022-10-20 21:21:57.624 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Creating image collage and saving to "/config/cache/temp/bb64670a68124187a31bffdec564fbad.png"
+[2022-10-20 21:21:57.986 -03:00] [INF] [37] Emby.Drawing.ImageProcessor: Completed creation of image collage and saved to "/config/cache/temp/bb64670a68124187a31bffdec564fbad.png"
+[2022-10-20 21:22:10.015 -03:00] [INF] [35] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.8.5" playing "02-The Incredible Hulk (2008)". Stopped at "15570" ms
+[2022-10-20 21:24:22.735 -03:00] [INF] [12] Emby.Server.Implementations.Library.LibraryManager: Post-scan task cancelled: "StudiosPostScanTask"
+[2022-10-20 21:24:22.736 -03:00] [INF] [12] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Cancelled after 2 minute(s) and 37 seconds
+[2022-10-20 21:24:22.737 -03:00] [INF] [12] Emby.Server.Implementations.ScheduledTasks.TaskManager: ExecuteQueuedTasks
+[2022-10-20 21:24:22.802 -03:00] [INF] [37] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/Cubanas"
+[2022-10-20 21:24:28.216 -03:00] [INF] [6] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/COLLECTIONS x ACTORES"
+[2022-10-20 21:24:28.237 -03:00] [INF] [26] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/EXTENDED"
+[2022-10-20 21:26:39.463 -03:00] [ERR] [37] Jellyfin.Server.Middleware.ExceptionMiddleware: Error processing request. URL "POST" "/QuickConnect/Authorize".
+MediaBrowser.Common.Extensions.ResourceNotFoundException: Unable to find request
+   at Emby.Server.Implementations.QuickConnect.QuickConnectManager.AuthorizeRequest(Guid userId, String code)
+   at Jellyfin.Api.Controllers.QuickConnectController.Authorize(String code)
+   at lambda_method1555(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Jellyfin.Server.Middleware.ServerStartupMessageMiddleware.Invoke(HttpContext httpContext, IServerApplicationHost serverApplicationHost, ILocalizationManager localizationManager)
+   at Jellyfin.Server.Middleware.WebSocketHandlerMiddleware.Invoke(HttpContext httpContext, IWebSocketManager webSocketManager)
+   at Jellyfin.Server.Middleware.IpBasedAccessValidationMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager)
+   at Jellyfin.Server.Middleware.LanFilteringMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager, IServerConfigurationManager serverConfigurationManager)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.QueryStringDecodingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.RobotsRedirectionMiddleware.Invoke(HttpContext httpContext)
+   at Jellyfin.Server.Middleware.LegacyEmbyRouteRewriteMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Jellyfin.Server.Middleware.ResponseTimeMiddleware.Invoke(HttpContext context, IServerConfigurationManager serverConfigurationManager)
+   at Jellyfin.Server.Middleware.ExceptionMiddleware.Invoke(HttpContext context)
+[2022-10-20 21:26:45.083 -03:00] [ERR] [3] Jellyfin.Server.Middleware.ExceptionMiddleware: Error processing request. URL "POST" "/QuickConnect/Authorize".
+MediaBrowser.Common.Extensions.ResourceNotFoundException: Unable to find request
+   at Emby.Server.Implementations.QuickConnect.QuickConnectManager.AuthorizeRequest(Guid userId, String code)
+   at Jellyfin.Api.Controllers.QuickConnectController.Authorize(String code)
+   at lambda_method1555(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Jellyfin.Server.Middleware.ServerStartupMessageMiddleware.Invoke(HttpContext httpContext, IServerApplicationHost serverApplicationHost, ILocalizationManager localizationManager)
+   at Jellyfin.Server.Middleware.WebSocketHandlerMiddleware.Invoke(HttpContext httpContext, IWebSocketManager webSocketManager)
+   at Jellyfin.Server.Middleware.IpBasedAccessValidationMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager)
+   at Jellyfin.Server.Middleware.LanFilteringMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager, IServerConfigurationManager serverConfigurationManager)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.QueryStringDecodingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.RobotsRedirectionMiddleware.Invoke(HttpContext httpContext)
+   at Jellyfin.Server.Middleware.LegacyEmbyRouteRewriteMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Jellyfin.Server.Middleware.ResponseTimeMiddleware.Invoke(HttpContext context, IServerConfigurationManager serverConfigurationManager)
+   at Jellyfin.Server.Middleware.ExceptionMiddleware.Invoke(HttpContext context)
+[2022-10-20 21:27:18.633 -03:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "acosta": 1/0
+[2022-10-20 21:27:18.637 -03:00] [INF] [37] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user eafa54e9-acf2-481a-bb40-2a3fd34340c7
+[2022-10-20 21:27:20.831 -03:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:29:52.644 -03:00] [ERR] [49] Jellyfin.Server.Middleware.ExceptionMiddleware: Error processing request. URL "POST" "/QuickConnect/Authorize".
+System.InvalidOperationException: Request is already authorized
+   at Emby.Server.Implementations.QuickConnect.QuickConnectManager.AuthorizeRequest(Guid userId, String code)
+   at Jellyfin.Api.Controllers.QuickConnectController.Authorize(String code)
+   at lambda_method1555(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Jellyfin.Server.Middleware.ServerStartupMessageMiddleware.Invoke(HttpContext httpContext, IServerApplicationHost serverApplicationHost, ILocalizationManager localizationManager)
+   at Jellyfin.Server.Middleware.WebSocketHandlerMiddleware.Invoke(HttpContext httpContext, IWebSocketManager webSocketManager)
+   at Jellyfin.Server.Middleware.IpBasedAccessValidationMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager)
+   at Jellyfin.Server.Middleware.LanFilteringMiddleware.Invoke(HttpContext httpContext, INetworkManager networkManager, IServerConfigurationManager serverConfigurationManager)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.QueryStringDecodingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.ReDoc.ReDocMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jellyfin.Server.Middleware.RobotsRedirectionMiddleware.Invoke(HttpContext httpContext)
+   at Jellyfin.Server.Middleware.LegacyEmbyRouteRewriteMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Jellyfin.Server.Middleware.ResponseTimeMiddleware.Invoke(HttpContext context, IServerConfigurationManager serverConfigurationManager)
+   at Jellyfin.Server.Middleware.ExceptionMiddleware.Invoke(HttpContext context)
+[2022-10-20 21:30:27.755 -03:00] [INF] [55] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2022-10-20 21:32:39.766 -03:00] [INF] [57] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2022-10-20 21:33:10.221 -03:00] [WRN] [25] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "172.18.0.1" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2022-10-20 21:33:10.241 -03:00] [INF] [25] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:34:51.739 -03:00] [INF] [57] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "may" has succeeded.
+[2022-10-20 21:34:51.739 -03:00] [INF] [57] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "may": 0/0
+[2022-10-20 21:34:51.741 -03:00] [INF] [57] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 0de43416-f462-49b4-9615-f52dd0298f06
+[2022-10-20 21:34:51.846 -03:00] [INF] [42] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:35:17.905 -03:00] [INF] [59] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:35:41.301 -03:00] [INF] [41] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "may" has succeeded.
+[2022-10-20 21:35:41.302 -03:00] [INF] [41] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "may": 0/0
+[2022-10-20 21:35:41.303 -03:00] [INF] [41] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 0de43416-f462-49b4-9615-f52dd0298f06
+[2022-10-20 21:35:41.394 -03:00] [INF] [25] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:35:57.605 -03:00] [INF] [15] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "may". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2022-10-20 21:35:57.662 -03:00] [INF] [15] Jellyfin.Api.Helpers.MediaInfoHelper: StreamBuilder.BuildVideoItem( Profile="Anonymous Profile", Path="/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi", AudioStreamIndex=null, SubtitleStreamIndex=null ) => ( PlayMethod=Transcode, TranscodeReason=VideoCodecNotSupported ) "media:/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/master.m3u8?MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&api_key=<token>&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported"
+[2022-10-20 21:35:58.192 -03:00] [INF] [15] Jellyfin.Api.Controllers.DynamicHlsController: Current HLS implementation doesn't support non-keyframe breaks but one is requested, ignoring that request
+[2022-10-20 21:35:58.242 -03:00] [INF] [15] Jellyfin.Api.Helpers.TranscodingJobHelper: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-analyzeduration 200M -f avi -autorotate 0 -i file:\"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi\" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 \"expr:gte(t,0+n_forced*3)\" -sc_threshold:v:0 0 -vf \"setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p\" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 0 -hls_segment_filename \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts\" -hls_playlist_type vod -hls_list_size 0 -y \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8\""
+[2022-10-20 21:36:04.405 -03:00] [WRN] [15] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/0.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=0&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:02.1601602 with Status Code 200
+[2022-10-20 21:36:04.406 -03:00] [WRN] [39] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/0.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=0&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:06.2531927 with Status Code 200
+[2022-10-20 21:36:05.341 -03:00] [WRN] [23] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://localhost:8096/System/ActivityLog/Entries?startIndex=0&limit=4&minDate=2022-10-14T00%3A36%3A04.724Z&hasUserId=false" to "172.18.0.1" in 0:00:00.6088594 with Status Code 200
+[2022-10-20 21:36:06.201 -03:00] [INF] [49] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:36:14.037 -03:00] [INF] [27] Jellyfin.Api.Helpers.TranscodingJobHelper: Stopping ffmpeg process with q command for "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:36:14.099 -03:00] [INF] [27] Jellyfin.Api.Helpers.TranscodingJobHelper: FFmpeg exited with code 0
+[2022-10-20 21:36:14.101 -03:00] [INF] [27] Jellyfin.Api.Controllers.DynamicHlsController: Current HLS implementation doesn't support non-keyframe breaks but one is requested, ignoring that request
+[2022-10-20 21:36:14.102 -03:00] [INF] [27] Jellyfin.Api.Helpers.TranscodingJobHelper: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-analyzeduration 200M -ss 00:08:24.000 -f avi -autorotate 0 -i file:\"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi\" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 \"expr:gte(t,504+n_forced*3)\" -sc_threshold:v:0 0 -vf \"setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p\" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 168 -hls_segment_filename \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts\" -hls_playlist_type vod -hls_list_size 0 -y \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8\""
+[2022-10-20 21:36:15.221 -03:00] [WRN] [50] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/168.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=5040000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:01.1928759 with Status Code 200
+[2022-10-20 21:36:15.362 -03:00] [INF] [23] Jellyfin.Api.Helpers.TranscodingJobHelper: Stopping ffmpeg process with q command for "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:36:15.414 -03:00] [INF] [23] Jellyfin.Api.Helpers.TranscodingJobHelper: FFmpeg exited with code 0
+[2022-10-20 21:36:15.414 -03:00] [INF] [23] Jellyfin.Api.Controllers.DynamicHlsController: Current HLS implementation doesn't support non-keyframe breaks but one is requested, ignoring that request
+[2022-10-20 21:36:15.415 -03:00] [INF] [23] Jellyfin.Api.Helpers.TranscodingJobHelper: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-analyzeduration 200M -ss 00:48:03.000 -f avi -autorotate 0 -i file:\"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi\" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 \"expr:gte(t,2883+n_forced*3)\" -sc_threshold:v:0 0 -vf \"setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p\" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 961 -hls_segment_filename \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts\" -hls_playlist_type vod -hls_list_size 0 -y \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8\""
+[2022-10-20 21:36:17.138 -03:00] [WRN] [47] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/961.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=28830000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:01.7791984 with Status Code 200
+[2022-10-20 21:36:21.285 -03:00] [WRN] [50] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/968.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29040000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.6022777 with Status Code 200
+[2022-10-20 21:36:22.579 -03:00] [WRN] [39] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/970.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29100000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.5052117 with Status Code 200
+[2022-10-20 21:36:23.323 -03:00] [WRN] [27] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/971.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29130000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.6046021 with Status Code 200
+[2022-10-20 21:36:24.632 -03:00] [WRN] [49] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/973.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29190000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.7034052 with Status Code 200
+[2022-10-20 21:36:27.021 -03:00] [WRN] [56] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/978.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29340000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.7132713 with Status Code 200
+[2022-10-20 21:36:28.547 -03:00] [WRN] [42] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/980.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29400000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.8109014 with Status Code 200
+[2022-10-20 21:36:29.362 -03:00] [WRN] [44] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/981.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29430000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.7099515 with Status Code 200
+[2022-10-20 21:36:30.092 -03:00] [WRN] [49] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/982.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29460000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.6093645 with Status Code 200
+[2022-10-20 21:36:31.102 -03:00] [WRN] [23] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/983.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29490000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.8056423 with Status Code 200
+[2022-10-20 21:36:32.027 -03:00] [WRN] [27] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/984.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29520000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.8094473 with Status Code 200
+[2022-10-20 21:36:32.956 -03:00] [WRN] [15] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/985.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29550000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.8070199 with Status Code 200
+[2022-10-20 21:36:34.115 -03:00] [WRN] [27] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/986.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=29580000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:00.9099531 with Status Code 200
+[2022-10-20 21:36:35.591 -03:00] [INF] [50] Jellyfin.Api.Helpers.TranscodingJobHelper: Stopping ffmpeg process with q command for "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:36:35.755 -03:00] [INF] [50] Jellyfin.Api.Helpers.TranscodingJobHelper: FFmpeg exited with code 0
+[2022-10-20 21:36:35.756 -03:00] [INF] [50] Jellyfin.Api.Controllers.DynamicHlsController: Current HLS implementation doesn't support non-keyframe breaks but one is requested, ignoring that request
+[2022-10-20 21:36:35.758 -03:00] [INF] [50] Jellyfin.Api.Helpers.TranscodingJobHelper: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-analyzeduration 200M -ss 00:44:03.000 -f avi -autorotate 0 -i file:\"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi\" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 \"expr:gte(t,2643+n_forced*3)\" -sc_threshold:v:0 0 -vf \"setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p\" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 881 -hls_segment_filename \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts\" -hls_playlist_type vod -hls_list_size 0 -y \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8\""
+[2022-10-20 21:36:38.385 -03:00] [WRN] [23] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/881.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=26430000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:02.7985703 with Status Code 200
+[2022-10-20 21:36:41.272 -03:00] [INF] [56] Jellyfin.Api.Helpers.TranscodingJobHelper: Stopping ffmpeg process with q command for "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:36:41.407 -03:00] [INF] [56] Jellyfin.Api.Helpers.TranscodingJobHelper: FFmpeg exited with code 0
+[2022-10-20 21:36:41.408 -03:00] [INF] [56] Jellyfin.Api.Controllers.DynamicHlsController: Current HLS implementation doesn't support non-keyframe breaks but one is requested, ignoring that request
+[2022-10-20 21:36:41.409 -03:00] [INF] [56] Jellyfin.Api.Helpers.TranscodingJobHelper: "/usr/lib/jellyfin-ffmpeg/ffmpeg" "-analyzeduration 200M -ss 00:02:57.000 -f avi -autorotate 0 -i file:\"/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi\" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3900910 -bufsize 7801820 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=4:rc_lookahead=10:me=dia:no_chroma_me:8x8dct=0:partitions=none -force_key_frames:0 \"expr:gte(t,177+n_forced*3)\" -sc_threshold:v:0 0 -vf \"setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(1280\,534*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(1280/a\,534))/2)*2,format=yuv420p\" -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 59 -hls_segment_filename \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824%d.ts\" -hls_playlist_type vod -hls_list_size 0 -y \"/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8\""
+[2022-10-20 21:36:43.731 -03:00] [WRN] [39] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/videos/784e56d6-0341-8fcf-46eb-cf3eef99fa15/hls1/main/59.ts?DeviceId=TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV81IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgQ3JpT1MvNzkuMC4zOTQ1LjczIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xfDE2NjYzMTIxNTQ4MjI1&MediaSourceId=784e56d603418fcf46ebcf3eef99fa15&VideoCodec=h264&AudioCodec=mp3&AudioStreamIndex=2&VideoBitrate=139872000&AudioBitrate=128000&AudioSampleRate=44100&MaxFramerate=23.976&PlaySessionId=c6fc88dff4044b7098a1a80d478df260&api_key=dec2d184fc2f42ae875eea1536071ec9&TranscodingMaxAudioChannels=6&RequireAvc=false&Tag=1b70d2df3a7545402547712a272f21ab&SegmentContainer=ts&MinSegments=2&BreakOnNonKeyFrames=True&mpeg4-level=5&mpeg4-videobitdepth=8&mpeg4-profile=advancedsimpleprofile&mpeg4-audiochannels=2&h264-profile=high,main,baseline,constrainedbaseline&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&TranscodeReasons=VideoCodecNotSupported&runtimeTicks=1770000000&actualSegmentLengthTicks=30000000" to "172.18.0.1" in 0:00:02.4626687 with Status Code 200
+[2022-10-20 21:36:56.360 -03:00] [INF] [38] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:36:59.176 -03:00] [WRN] [41] Jellyfin.Server.Middleware.ResponseTimeMiddleware: Slow HTTP Response from "http://192.168.1.10:8096/Items/b34bc554ac58158f7d7cf01a18540406/Images/Backdrop/0?maxWidth=3520&tag=4a66bac86173ccc296f586e0928b452c&quality=80" to "172.18.0.1" in 0:00:03.4974574 with Status Code 200
+[2022-10-20 21:37:01.954 -03:00] [INF] [56] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "acosta". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2022-10-20 21:37:01.955 -03:00] [INF] [56] Jellyfin.Api.Helpers.MediaInfoHelper: StreamBuilder.BuildVideoItem( Profile="Anonymous Profile", Path="/data/movies/COLLECTIONS x ACTORES/[Anne Hathaway]/Maestras del Engaño [2019] [469,37 Mb]/Maestras del Engaño [2019].mp4", AudioStreamIndex=1, SubtitleStreamIndex=-1 ) => ( PlayMethod=DirectPlay, TranscodeReason=0 ) "media:/videos/b34bc554-ac58-158f-7d7c-f01a18540406/stream.mp4?MediaSourceId=b34bc554ac58158f7d7cf01a18540406&Static=true&VideoCodec=h264&AudioCodec=aac&AudioStreamIndex=1&api_key=<token>&SubtitleMethod=Encode&Tag=bc3b0ef02f1d3617d41d8f7a45a51c26"
+[2022-10-20 21:37:07.226 -03:00] [INF] [31] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" request
+[2022-10-20 21:37:35.024 -03:00] [INF] [41] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:37:36.971 -03:00] [WRN] [27] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "172.18.0.1" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2022-10-20 21:37:36.982 -03:00] [INF] [27] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:38:54.660 -03:00] [INF] [15] Jellyfin.Api.Helpers.TranscodingJobHelper: Transcoding kill timer stopped for JobId "ffa650caa46d40ae9794572bb2eda27c" PlaySessionId "c6fc88dff4044b7098a1a80d478df260". Killing transcoding
+[2022-10-20 21:38:54.661 -03:00] [INF] [15] Jellyfin.Api.Helpers.TranscodingJobHelper: Stopping ffmpeg process with q command for "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:38:54.760 -03:00] [INF] [50] Jellyfin.Api.Helpers.TranscodingJobHelper: FFmpeg exited with code 0
+[2022-10-20 21:38:54.761 -03:00] [INF] [15] Jellyfin.Api.Helpers.TranscodingJobHelper: Deleting partial stream file(s) "/config/data/transcodes/b977d558c1f1af8cdcd71e389a0b7824.m3u8"
+[2022-10-20 21:42:05.277 -03:00] [INF] [63] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "172.18.0.1" closed
+[2022-10-20 21:42:13.896 -03:00] [INF] [2] Main: Received a SIGTERM signal, shutting down
+[2022-10-20 21:42:13.896 -03:00] [INF] [2] Main: Running query planner optimizations in the database... This might take a while
+[2022-10-20 21:42:13.919 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "CoreAppHost"
+[2022-10-20 21:42:13.920 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzAlbumProvider"
+[2022-10-20 21:42:13.920 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "EmbyTV"
+[2022-10-20 21:42:13.921 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "UdpServerEntryPoint"
+[2022-10-20 21:42:13.921 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "LibraryChangedNotifier"
+[2022-10-20 21:42:13.923 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "ExternalPortForwarding"
+[2022-10-20 21:42:13.923 -03:00] [INF] [2] Emby.Server.Implementations.EntryPoints.ExternalPortForwarding: Stopping NAT discovery
+[2022-10-20 21:42:13.925 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "DlnaEntryPoint"
+[2022-10-20 21:42:13.925 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: Disposing PlayToManager
+[2022-10-20 21:42:13.927 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: Disposing DeviceDiscovery
+[2022-10-20 21:42:13.927 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: Disposing SsdpCommunicationsServer
+[2022-10-20 21:42:13.927 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: "SsdpCommunicationsServer" disposing _BroadcastListenSocket
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: "SsdpCommunicationsServer" Disposing 3 sendSockets
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: "SsdpCommunicationsServer" disposing sendSocket from "0.0.0.0"
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: "SsdpCommunicationsServer" disposing sendSocket from "172.18.0.2"
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Dlna.Main.DlnaEntryPoint: "SsdpCommunicationsServer" disposing sendSocket from "127.0.0.1"
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "EntryPoint"
+[2022-10-20 21:42:13.929 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "NotificationEntryPoint"
+[2022-10-20 21:42:13.930 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "UserDataChangeNotifier"
+[2022-10-20 21:42:13.931 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "EntryPoint"
+[2022-10-20 21:42:13.931 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "RecordingNotifier"
+[2022-10-20 21:42:13.932 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "DeviceAccessEntryPoint"
+[2022-10-20 21:42:13.932 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "SchedulesDirect"
+[2022-10-20 21:42:13.932 -03:00] [INF] [2] Emby.Server.Implementations.ApplicationHost: Disposing "LibraryMonitorStartup"

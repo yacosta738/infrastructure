@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>10/20/2022 21:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>The Equalizer (El protector) - Colección</LocalTitle>
+  <PremiereDate>2014-09-23</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2014</ProductionYear>
+  <Genres>
+    <Genre>Suspense</Genre>
+    <Genre>Acción</Genre>
+    <Genre>Crimen</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Columbia Pictures</Studio>
+    <Studio>Village Roadshow Pictures</Studio>
+    <Studio>Escape Artists</Studio>
+    <Studio>Mace Neufeld Productions</Studio>
+    <Studio>LStar Capital</Studio>
+    <Studio>Lonetree Entertainment</Studio>
+    <Studio>Sony Pictures</Studio>
+    <Studio>Fuqua Films</Studio>
+    <Studio>ZHIV Productions</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/COLLECTIONS x ACTORES/Denzel Washington/[Denzel Washington] The Equalizer (2014)/The.Equalizer.2014.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Equalizer/The Equalizer 2 (2018) [WEBRip] [1080p] [YTS.AM]/The.Equalizer.2.2018.1080p.WEBRip.x264-[YTS.AM].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Equalizer/The Equalizer (2014)/The.Equalizer.2014.720p.BluRay.x264.YIFY.mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

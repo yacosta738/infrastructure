@@ -1,0 +1,37 @@
+version: '3'
+
+services:
+  server:
+    image: caroga/commentoplusplus
+    ports:
+      - 8080:8080
+    environment:
+      COMMENTO_ORIGIN: http://localhost:8080
+      COMMENTO_PORT: 8080
+      COMMENTO_POSTGRES: postgres://postgres:postgres@db:5432/commento?sslmode=disable
+      #COMMENTO_FORBID_NEW_OWNERS: "true"
+      COMMENTO_GZIP_STATIC: "true"
+      VIRTUAL_HOST: localhost:8080
+      VIRTUAL_PORT: 8080
+      LETSENCRYPT_HOST: localhost:8080
+    networks:
+      - db_network
+    depends_on:
+      - db
+  db:
+    image: postgres
+    environment:
+      POSTGRES_DB: commento
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - 5432:5432  
+    volumes:
+      - postgres_data_volume:/var/lib/postgresql/data
+    networks:
+      - db_network
+
+volumes:
+  postgres_data_volume:
+networks:
+  db_network:

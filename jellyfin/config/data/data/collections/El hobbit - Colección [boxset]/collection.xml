@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>El hobbit - Colección</LocalTitle>
+  <PremiereDate>2012-11-25</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2012</ProductionYear>
+  <Genres>
+    <Genre>Acción</Genre>
+    <Genre>Aventura</Genre>
+    <Genre>Fantasía</Genre>
+  </Genres>
+  <Studios>
+    <Studio>WingNut Films</Studio>
+    <Studio>New Line Cinema</Studio>
+    <Studio>Metro-Goldwyn-Mayer</Studio>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Studio>3Foot7</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Hobbit/The Hobbit III/The Hobbit Battle Of The Five Armies (2014).avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Hobbit/The Hobbit II/The Hobbit 2-2013.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Hobbit/The Hobbit I/The Hobbit 1-2012.avi</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

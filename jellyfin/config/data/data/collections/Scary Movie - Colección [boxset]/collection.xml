@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Scary Movie - Colección</LocalTitle>
+  <PremiereDate>2000-07-06</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2000</ProductionYear>
+  <Genres>
+    <Genre>Comedia</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Gold/Miller Productions</Studio>
+    <Studio>Wayans Bros. Entertainment</Studio>
+    <Studio>Dimension Films</Studio>
+    <Studio>Brad Grey Pictures</Studio>
+    <Studio>Miramax</Studio>
+    <Studio>415 Project</Studio>
+    <Studio>Scary Movie 4</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Scary Movie/Scary Movie 1 [Comedias].avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Scary Movie/Scary Movie 2 [Comedias].avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Scary Movie/Scary Movie 3 [Comedias].avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Scary Movie/Scary Movie 4 [Comedias].avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Scary Movie/Scary movie 5 [Comedias].mpg</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

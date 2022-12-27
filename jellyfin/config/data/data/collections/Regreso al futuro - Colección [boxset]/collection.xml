@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Regreso al futuro - Colección</LocalTitle>
+  <PremiereDate>1985-07-02</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>1985</ProductionYear>
+  <Genres>
+    <Genre>Aventura</Genre>
+    <Genre>Comedia</Genre>
+    <Genre>Ciencia ficción</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Universal Pictures</Studio>
+    <Studio>Amblin Entertainment</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/[1985 - 1990] Back to the Future/Back to the Future (1985)/regreso al futuro 1.mpg</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/[1985 - 1990] Back to the Future/Back to the Future II (1989)/regreso al futuro 2.mpg</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/[1985 - 1990] Back to the Future/Back to the Future III (1990)/regreso al futuro 3.mpg</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

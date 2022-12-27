@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Cincuenta sombras de Grey - Colección</LocalTitle>
+  <PremiereDate>2015-02-10</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2015</ProductionYear>
+  <Genres>
+    <Genre>Drama</Genre>
+    <Genre>Romance</Genre>
+    <Genre>Suspense</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Trigger Street Productions</Studio>
+    <Studio>Focus Features</Studio>
+    <Studio>Michael De Luca Productions</Studio>
+    <Studio>Universal Pictures</Studio>
+    <Studio>dentsu</Studio>
+    <Studio>Fuji Television Network</Studio>
+    <Studio>Perfect World Pictures</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/50 Shades of Grey/2015 - Fifty Shades of Grey/Fifty Shades of Grey (2015).mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/50 Shades of Grey/2017 - Fifty Shades Darker/Cincuenta Sombras Mas Oscuras [2017].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/50 Shades of Grey/2017 - Fifty Shades Darker/Fifty Shades Darker [1080p][USA][2017].mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

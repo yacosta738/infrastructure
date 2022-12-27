@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Harry Potter - Colección</LocalTitle>
+  <PremiereDate>2001-11-15</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2001</ProductionYear>
+  <Genres>
+    <Genre>Aventura</Genre>
+    <Genre>Fantasía</Genre>
+    <Genre>Familia</Genre>
+    <Genre>Misterio</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Studio>Heyday Films</Studio>
+    <Studio>Patalex IV Productions Limited</Studio>
+    <Studio>1492 Pictures</Studio>
+    <Studio>P of A Productions Limited</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2005] Harry Potter and The Goblet Of Fire/2005.harry.potter.and.the.goblet.of.fire.mpeg4.ac3.yuv420p-2.37.05-1280x534p.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2009] Harry Potter and the Half-Blood Prince/HP06 - The Half-Blood Prince.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2004] Harry Potter and The Prisoner Of Azkaban/2004.harry.potter.and.the.prisoner.of.azkaban.mpeg4.ac3.yuv420p-2.21.42-1280x528p.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2002] Harry Potter and The Chamber Of Secrets/2002.harry.potter.and.the.chamber.of.secrets.mpeg4.ac3.yuv420p-2.40.56-1280x528p.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2007] Harry Potter and The Order Of The Phoenix/2007.harry.potter.and.the.order.of.the.phoenix.mpeg4.ac3.yuv420p-2.18.14-1280x532p.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2001] Harry Potter and The Sorcerer's Stone/2001.harry.potter.and.the.sorcerers.stone.mpeg4.ac3.yuv420p-2.32.21-1280x528p.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Harry Potter/[2010] Harry Potter and the Deathly Hallows, Part 1/Harry Potter and the Deathly Hallows, Part 1.720p.BRRip.XviD.avi</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

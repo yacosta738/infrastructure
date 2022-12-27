@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Resident Evil - Colección</LocalTitle>
+  <PremiereDate>2002-03-14</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2002</ProductionYear>
+  <Genres>
+    <Genre>Terror</Genre>
+    <Genre>Acción</Genre>
+    <Genre>Ciencia ficción</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Constantin Film</Studio>
+    <Studio>Impact Pictures</Studio>
+    <Studio>FilmFernsehFonds Bayern</Studio>
+    <Studio>Filmboard Berlin-Brandenburg (FBB)</Studio>
+    <Studio>Davis Films</Studio>
+    <Studio>New Legacy Film</Studio>
+    <Studio>FFA</Studio>
+    <Studio>Screen Gems</Studio>
+    <Studio>Davis Films/Impact Pictures</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Resident Evil/Resident Evil 1 - [2002] [720p] [1,8 Gb]/Resident Evil 1 - [2002] [720p].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Resident Evil/Resident Evil 2 - [Apocalypse] [2004] [720p] [1,55 Gb]/Resident Evil 2 - [Apocalypse] [2004] [720p].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Resident Evil/Resident Evil 3 - [Extinction] [2007] [720p] [1,55 Gb]/Resident Evil 3 - [Extinction] [2007] [720p].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Resident Evil/Resident Evil 6 - The Final Chapter [1080p][USA][2016] [3,7 Gb]/Resident Evil - The Final Chapter [1080p][USA][2016].mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

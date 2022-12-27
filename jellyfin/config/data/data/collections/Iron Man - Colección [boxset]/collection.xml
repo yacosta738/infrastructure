@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Iron Man - Colección</LocalTitle>
+  <PremiereDate>2008-04-29</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2008</ProductionYear>
+  <Genres>
+    <Genre>Acción</Genre>
+    <Genre>Ciencia ficción</Genre>
+    <Genre>Aventura</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Marvel Studios</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Universo Cinematográfico de Marvel/Fase 1/01-Iron Man (2008)/Iron Man-1.m4v</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Universo Cinematográfico de Marvel/Fase 1/03-Iron Man 2 (2010)/Iron.Man.II.x264.720p.mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

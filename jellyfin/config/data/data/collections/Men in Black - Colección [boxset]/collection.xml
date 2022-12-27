@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Men in Black - Colección</LocalTitle>
+  <PremiereDate>1997-07-01</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>1997</ProductionYear>
+  <Genres>
+    <Genre>Acción</Genre>
+    <Genre>Aventura</Genre>
+    <Genre>Comedia</Genre>
+    <Genre>Ciencia ficción</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Columbia Pictures</Studio>
+    <Studio>Amblin Entertainment</Studio>
+    <Studio>Parkes+MacDonald Image Nation</Studio>
+    <Studio>Imagenation Abu Dhabi FZ</Studio>
+    <Studio>Hemisphere Media Capital</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Men in Black -(Coleccion)/Men in Black II-[2002]/Men.In.Black.II.2002.720p.HDTV.DD5.1.x264-CtrlHD.mpg</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Men in Black -(Coleccion)/Men in Black I-[1997]/Men.in.Black.(1997).BDRip.720p.AC3.X264-SEPTiC-English.mpg</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Men in Black -(Coleccion)/Men in Black III-[2012]/Men.in.Black.3.2012.720p.BluRay.x264.DTS-HDC.mpg</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>La saga Crepúsculo - Colección</LocalTitle>
+  <PremiereDate>2008-11-19</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2008</ProductionYear>
+  <Genres>
+    <Genre>Fantasía</Genre>
+    <Genre>Drama</Genre>
+    <Genre>Romance</Genre>
+    <Genre>Aventura</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Summit Entertainment</Studio>
+    <Studio>Goldcrest</Studio>
+    <Studio>Maverick Films</Studio>
+    <Studio>Imprint Entertainment</Studio>
+    <Studio>Temple Hill Entertainment</Studio>
+    <Studio>Twilight Productions</Studio>
+    <Studio>Sunswept Entertainment</Studio>
+    <Studio>Total Entertainment</Studio>
+    <Studio>TSBD Canada Productions</Studio>
+    <Studio>TSBD Louisiana</Studio>
+    <Studio>TSBD Productions</Studio>
+    <Studio>Lionsgate</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Crepusculo/Twilight I/Twilight.mpg</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Crepusculo/Twilight IV - Breaking Dawn Part 1/sparks-tlsbdp1-720.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Crepusculo/Twilight V - Breaking.Dawn.Part 2/The.Twilight.Saga.Breaking.Dawn.Part.2.iND.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Crepusculo/Twilight III - ECLIPSE/The.Twilight.Saga.Eclipse.2010.DVDSCR.XviD-PrisM.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/Crepusculo/Twilight II - New Moon/NEW MOON.avi</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

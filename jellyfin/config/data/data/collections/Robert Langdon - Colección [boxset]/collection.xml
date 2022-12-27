@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Robert Langdon - Colección</LocalTitle>
+  <PremiereDate>2006-05-16</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2006</ProductionYear>
+  <Genres>
+    <Genre>Suspense</Genre>
+    <Genre>Misterio</Genre>
+    <Genre>Drama</Genre>
+    <Genre>Acción</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Columbia Pictures</Studio>
+    <Studio>Imagine Entertainment</Studio>
+    <Studio>Skylark Productions</Studio>
+    <Studio>Panorama Films</Studio>
+    <Studio>Mid Atlantic Films</Studio>
+    <Studio>LStar Capital</Studio>
+    <Studio>DNEG</Studio>
+    <Studio>LSG Productions</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/DAN BROWN/Angels &amp; Demons (2009) [1,22 Gb]/Angels &amp; Demons (2009).mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/DAN BROWN/El código Da Vinci (2006) [1,71 Gb]/El código Da Vinci (2006).mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/DAN BROWN/Inferno (2016) [1,19 Gb]/Inferno (2016).mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

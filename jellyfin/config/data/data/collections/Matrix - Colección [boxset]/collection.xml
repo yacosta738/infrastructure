@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>10/20/2022 18:21:44</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Matrix - Colección</LocalTitle>
+  <PremiereDate>2003-05-14</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2003</ProductionYear>
+  <Genres>
+    <Genre>Aventura</Genre>
+    <Genre>Acción</Genre>
+    <Genre>Suspense</Genre>
+    <Genre>Ciencia ficción</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Village Roadshow Pictures</Studio>
+    <Studio>NPV Entertainment</Studio>
+    <Studio>Silver Pictures</Studio>
+    <Studio>Warner Bros. Pictures</Studio>
+    <Studio>Venus Castina Productions</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Matrix/The Matrix Reloaded II/The Matrix Reloaded_1.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Matrix/The Matrix Reloaded II/The Matrix Reloaded_2.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Matrix/The Matrix I/The Matrix.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Matrix/The Matrix Revolutions III/The Matrix Revolutions_2.avi</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/EXTENDED/The Matrix/The Matrix Revolutions III/The Matrix Revolutions_1.avi</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>
